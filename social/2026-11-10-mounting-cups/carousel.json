@@ -1,0 +1,47 @@
+{
+ "tag": "SHORT TRACK GEAR",
+ "article_html": "article.html",
+ "slides": [
+  {
+   "type": "cover",
+   "title": "How far can your skates lean?",
+   "sub": "Mounting cups, blade height and a solid mount"
+  },
+  {
+   "type": "point",
+   "title": "What a mounting cup does",
+   "body": "Cups set your blade height, set the offset to the left of the boot centre line, and hold the whole assembly rigid through every push."
+  },
+  {
+   "type": "diagram",
+   "title": "Why taller cups lean deeper",
+   "svg_index": 1,
+   "caption": "A taller cup lifts the boot away from the ice so you can drop deeper into the corner."
+  },
+  {
+   "type": "point",
+   "title": "Start low and earn the height",
+   "body": "Taller cups add leverage before a beginner has the ankle strength to use it. Lower cups feel planted and easy to control."
+  },
+  {
+   "type": "point",
+   "title": "Read the engraving, write it down",
+   "body": "The number on the cup is its height in millimetres. Note front and rear heights so you can repeat a setup that works."
+  },
+  {
+   "type": "point",
+   "title": "Measure bolt spacing before you buy",
+   "body": "Boots and hardware use set bolt spacings: 165 mm is common on short track boots, 195 mm on inline. If they differ, use an adapter, not a drill."
+  },
+  {
+   "type": "point",
+   "title": "Check your mount every session",
+   "body": "Try to twist the blade before you lace up, and check each bolt with the Allen key once a month."
+  },
+  {
+   "type": "cta",
+   "title": "Full guide with the step by step mount",
+   "body": "Link in bio"
+  }
+ ]
+}

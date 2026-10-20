@@ -1,0 +1,47 @@
+{
+ "tag": "INLINE WINTER CARE",
+ "article_html": "article.html",
+ "slides": [
+  {
+   "type": "cover",
+   "title": "Why do skates feel slower on cold mornings?",
+   "sub": "What to change in your wheels, bearings and warm up"
+  },
+  {
+   "type": "point",
+   "title": "Cold wheels grip less",
+   "body": "Cold urethane stiffens and the contact patch shrinks, so your wheel behaves like a harder grade than the one printed on it."
+  },
+  {
+   "type": "diagram",
+   "title": "Why the first corner catches you out",
+   "svg_index": 0,
+   "caption": "The same wheel grips less when cold, because its contact patch shrinks."
+  },
+  {
+   "type": "point",
+   "title": "Cold oil drags at first",
+   "body": "Thick bearing oil gives a short roll for the first few minutes. Do not judge your bearings on a cold morning, and do not flood them with oil."
+  },
+  {
+   "type": "point",
+   "title": "Watch for dew you cannot see",
+   "body": "Painted lines, tiles, metal covers and shade stay damp after the road looks dry. Scout your first lap slowly."
+  },
+  {
+   "type": "point",
+   "title": "Skate your grippier compound",
+   "body": "If you own XFirm and XXFirm sets, the cold morning call is XFirm. It buys back some grip, not all of it."
+  },
+  {
+   "type": "point",
+   "title": "Double the warm up",
+   "body": "Start it off the skates and keep hard efforts for the back half. See a physiotherapist or doctor for sharp pain, swelling or pain that lasts days."
+  },
+  {
+   "type": "cta",
+   "title": "The full cold morning checklist",
+   "body": "Link in bio"
+  }
+ ]
+}

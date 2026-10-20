@@ -1,0 +1,47 @@
+{
+ "tag": "INLINE BEARINGS",
+ "article_html": "article.html",
+ "slides": [
+  {
+   "type": "cover",
+   "title": "What really makes a bearing fast?",
+   "sub": "It is not the number printed on the shield"
+  },
+  {
+   "type": "point",
+   "title": "The races decide the roll",
+   "body": "The inner and outer races are the surfaces the balls run on. Rounder, smoother races with tighter tolerances lose less energy on every rotation."
+  },
+  {
+   "type": "point",
+   "title": "Steel or ceramic balls",
+   "body": "Steel balls are tough and forgiving. Ceramic balls are harder, lighter and rounder, so they run cooler and hold their speed for longer."
+  },
+  {
+   "type": "diagram",
+   "title": "Inside a 608 skate bearing",
+   "svg_index": 0,
+   "caption": "The races, balls and cage of a standard 608 bearing, 8 by 22 by 7 mm."
+  },
+  {
+   "type": "point",
+   "title": "ABEC measures tolerance, not speed",
+   "body": "A well made ABEC 7 will beat a badly made ABEC 9 every time. Treat the number as one clue, not as a score."
+  },
+  {
+   "type": "point",
+   "title": "Check 608 or 627 before you buy",
+   "body": "Most inline speed skates use 608 bearings with an 8 mm bore. 627 has a 7 mm bore. They look alike in a photo and will not fit each other."
+  },
+  {
+   "type": "point",
+   "title": "New set feels slow? Check the spacer",
+   "body": "Without the right spacer, the axle squeezes the inner races together and the roll dies. Tighten until the wheel spins freely with no side play."
+  },
+  {
+   "type": "cta",
+   "title": "The full guide from first set to racing ceramic",
+   "body": "Link in bio"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "tag": "INLINE FRAMES",
+ "article_html": "article.html",
+ "slides": [
+  {
+   "type": "cover",
+   "title": "Which inline speed frame should you buy?",
+   "sub": "Five checks before you order your next frame"
+  },
+  {
+   "type": "point",
+   "title": "Check mounting first",
+   "body": "Bolt spacing is the one thing that can stop a frame fitting your boots at all. Measure front bolt to rear bolt: 150, 165 or 195mm."
+  },
+  {
+   "type": "diagram",
+   "title": "Choose your wheel size",
+   "svg_index": 0,
+   "caption": "Smaller wheels turn and accelerate quickly, bigger wheels roll further per stride."
+  },
+  {
+   "type": "point",
+   "title": "Three wheels or four",
+   "body": "Four wheels give grip and a planted race feel. A triskate turns more willingly and still rolls fast on big wheels."
+  },
+  {
+   "type": "point",
+   "title": "Length sets the character",
+   "body": "A long frame tracks straight and stays calm at race pace. A short frame turns eagerly and feels lively underfoot."
+  },
+  {
+   "type": "point",
+   "title": "Fit it to your boot",
+   "body": "Under a small boot, a long frame sticks out past the toe and heel. That overhang is what catches when you lean hard into a corner."
+  },
+  {
+   "type": "quote",
+   "text": "Get the frame right and everything above it works better."
+  },
+  {
+   "type": "cta",
+   "title": "Every frame decision, explained in one guide",
+   "body": "Link in bio"
+  }
+ ]
+}
