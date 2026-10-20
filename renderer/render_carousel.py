@@ -226,7 +226,7 @@ def slide_photo(s, tag, idx, total, root):
     top = y + 40
     bottom = H - (230 if s.get("sub") else 150)
     box_w, box_h = W - 2 * 60, bottom - top
-    card = Image.new("RGB", (box_w, box_h), (245, 247, 250))
+    card = Image.new("RGB", (box_w, box_h), (255, 255, 255))
     sc = min((box_w - 40) / src.width, (box_h - 40) / src.height)
     ph = src.resize((int(src.width * sc), int(src.height * sc)), Image.LANCZOS)
     card.paste(ph, ((box_w - ph.width) // 2, (box_h - ph.height) // 2))

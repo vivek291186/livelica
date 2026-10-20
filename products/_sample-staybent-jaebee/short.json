@@ -1,0 +1,9 @@
+{
+  "tag": "SHORT TRACK BLADES",
+  "scenes": [
+    {"type": "photo", "image": "img1.jpg", "headline": "StayBent JaeBee", "narration": "Want a short track blade that moves with you, not against you? This is the StayBent JaeBee, the most flexible blade in the StayBent range."},
+    {"type": "points", "headline": "Why it feels different", "bullets": ["Lips even more flexible than the QCS", "Tapered tube for progressive flex", "Softer, controlled corner transitions"], "narration": "Its lips flex even more than the QCS. The tube tapers towards each end, so the tips have more give than the middle. That keeps it smooth through technical corners."},
+    {"type": "photo", "image": "img2.jpg", "headline": "Bimetal or full PM steel", "narration": "Choose bimetal for easy sharpening, or full PM steel to hold an edge longer if you train most days."},
+    {"type": "end", "headline": "StayBent JaeBee", "sub": "Shop at livelica.com", "narration": "It comes in eight lengths, from 14.5 to 18. Find yours at the link in bio."}
+  ]
+}

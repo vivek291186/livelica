@@ -94,7 +94,7 @@ def photo_base(s, root, tag, path):
     bg = bg.resize((int(bg.width * scale), int(bg.height * scale)))
     bg = bg.crop(((bg.width - W) // 2, (bg.height - H) // 2, (bg.width - W) // 2 + W, (bg.height - H) // 2 + H))
     bg = bg.filter(ImageFilter.GaussianBlur(40))
-    bg = Image.blend(bg, Image.new("RGB", (W, H), NAVY), 0.62)
+    bg = Image.blend(bg, Image.new("RGB", (W, H), NAVY), 0.86)
     # Text layer (brand + product name) is drawn separately so only the photo moves in the push-in.
     over = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     od = ImageDraw.Draw(over)
@@ -104,7 +104,7 @@ def photo_base(s, root, tag, path):
     box_w, box_h = W - 120, min(860, H - 660 - top)
     sc = min(box_w / src.width, box_h / src.height)
     ph = src.resize((int(src.width * sc), int(src.height * sc)), Image.LANCZOS)
-    card = Image.new("RGB", (box_w, box_h), (245, 247, 250))
+    card = Image.new("RGB", (box_w, box_h), (255, 255, 255))
     card.paste(ph, ((box_w - ph.width) // 2, (box_h - ph.height) // 2))
     mask = Image.new("L", card.size, 0)
     ImageDraw.Draw(mask).rounded_rectangle([0, 0, box_w, box_h], radius=40, fill=255)

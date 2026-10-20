@@ -1,0 +1,12 @@
+{
+  "tag": "SHORT TRACK BLADES",
+  "slides": [
+    {"type": "photo", "image": "img1.jpg", "title": "StayBent JaeBee", "sub": "The most flexible blade in the StayBent range"},
+    {"type": "point", "title": "Built for feel and flow", "body": "The JaeBee is made for skaters who read a corner and skate it with touch, rather than wanting an ultra stiff platform."},
+    {"type": "point", "title": "Flexible lips", "body": "Its lips flex even more than the StayBent QCS, so the blade follows your foot through the stride instead of fighting it."},
+    {"type": "photo", "image": "img2.jpg", "title": "A tapered tube", "sub": "More give at the tips, more support in the middle"},
+    {"type": "point", "title": "Two steels to choose from", "body": "Bimetal at 62 HRC is forgiving and easy to sharpen. Full PM at 64 HRC holds an edge longer for skaters who train most days."},
+    {"type": "point", "title": "Eight lengths, 14.5 to 18", "body": "Shorter blades feel quicker and more agile. Longer blades track straighter and carry more speed on the straights."},
+    {"type": "cta", "title": "Lengths and details on LiveLica", "body": "Shop: link in bio"}
+  ]
+}
