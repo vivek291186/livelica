@@ -1,0 +1,10 @@
+{"tag": "INLINE SETUP", "article_html": "article.html", "slides": [
+ {"type":"cover","title":"Is your frame build costing you speed?","sub":"Get bearings, spacers and axles right first time"},
+ {"type":"point","title":"Count your parts first","body":"A pair of four wheel skates needs eight wheels and sixteen bearings. A triskate pair needs six wheels and twelve bearings."},
+ {"type":"diagram","title":"Why every wheel needs a spacer","svg_index":1,"caption":"The spacer between the two bearings takes the clamping load from the axle."},
+ {"type":"point","title":"Seat bearings straight","body":"Press each bearing in squarely with your thumbs until it sits flush. If it goes in stiffly, check it is not tilted before you push."},
+ {"type":"point","title":"One drop of oil, before the build","body":"Add one drop per bearing and spin it by hand to spread the oil. A flooded bearing collects dust and drags."},
+ {"type":"point","title":"Axles: firm, then stop","body":"Tightening past firm only loads the bearings. Spin the wheel after. It should turn freely and quietly for several seconds."},
+ {"type":"point","title":"Measure your boot mounting","body":"Measure from the centre of the front slot to the centre of the rear slot. Edge to edge reads long and points you at the wrong standard."},
+ {"type":"cta","title":"The full step by step frame build guide","body":"Link in bio"}
+]}

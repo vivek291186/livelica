@@ -1,0 +1,103 @@
+{
+  "title": "Quad Skate Bearings Explained: Why 627 Is Not 608 and How to Choose",
+  "url": "https://www.livelica.com/blogs/inline-speed-skating/quad-skate-bearings-explained-why-627-is-not-608-and-how-to-choose",
+  "thumbnail_text": "627 or 608? Check before you buy bearings",
+  "article_html": "article.html",
+  "scenes": [
+    {
+      "type": "title",
+      "heading": "Quad Skate Bearings: Why 627 Is Not 608",
+      "sub": "Check your axle, count your bearings, pick steel or ceramic",
+      "chapter": "The most common bearing mistake",
+      "narration": "By the end of this video, you will know whether your quad skates need 627 or 608 bearings, how many to order, and whether steel or ceramic suits your skating. This matters because one mistake catches quad skaters more than any other. They order a set of 608 bearings, because that is what every shop sells and every article talks about. The box arrives, and the bearings will not go onto the axle. That costs a delivery and a fortnight of waiting. The reason is simple. Many quad setups run 627 axles, not 608. The two bearings look almost the same in a photo, but they do not swap."
+    },
+    {
+      "type": "points",
+      "heading": "Why quad skaters have to check first",
+      "bullets": [
+        "Almost all inline speed skates use 608",
+        "So 608 became the default everywhere",
+        "Many quad setups run a 627 axle",
+        "Check your axle once and write it down"
+      ],
+      "chapter": "Why quads are different",
+      "narration": "Almost all inline speed skates use the 608 bearing. Inline dominates the speed skating conversation, so 608 has become the default assumption. Quad skating sits outside that default. A great many quad setups, including quad speed and quad long distance skates, are built around a 627 axle instead. That one difference means a large share of the bearings sold to speed skaters will simply not fit a quad skate. None of this is a problem once you know about it. It only becomes a problem when you assume a bearing is a bearing. So check your axle size once, and write it down. Then you will never order the wrong set again."
+    },
+    {
+      "type": "diagram",
+      "heading": "",
+      "svg_index": 0,
+      "chapter": "The bore: 7mm or 8mm",
+      "narration": "The one number that matters is the bore. That is the hole in the middle of the bearing, the part that slides onto the axle. On the left is a 627. It measures 7 millimetres bore, 22 millimetres across the outside, and 7 millimetres wide. On the right is the common 608. Its only difference is an 8 millimetre bore. That one millimetre is the whole story. A 627 will not slide onto an 8 millimetre axle. A 608 will rattle loosely on a 7 millimetre one. Because the outsides look so alike, you cannot reliably tell them apart by eye across a table. The name on the bearing, or the axle itself, is how you know."
+    },
+    {
+      "type": "points",
+      "heading": "How to check your size in two minutes",
+      "bullets": [
+        "Read the size printed on an old bearing",
+        "Measure the axle: 7mm or 8mm",
+        "Check your plate or frame specification",
+        "Still unsure? Ask before you order"
+      ],
+      "chapter": "How to check your axle",
+      "narration": "Checking takes about two minutes, and it saves you a wasted order. Any one of these methods gives you the answer. Do two of them if you want to be certain. First, pull an old bearing out of a wheel and read the shield. The size is usually printed there, so you will see 627 or 608. Second, measure the axle. A vernier calliper is ideal, but a decent steel rule will do. 7 millimetres means 627. 8 millimetres means 608. Third, look up your plate or frame specification from the manufacturer. Most list the axle size directly. And if you are still unsure, ask before you order. A quick message costs nothing."
+    },
+    {
+      "type": "points",
+      "heading": "Two more things to know",
+      "bullets": [
+        "Some inline frames use 627 too",
+        "Loose or will not seat? Run the check",
+        "Never force a bearing onto an axle",
+        "Light pressure only, or it is wrong"
+      ],
+      "chapter": "627 on inline, and never forcing it",
+      "narration": "Here are two more things worth knowing. First, 627 is not only a quad size. Some inline frames are also built around a 627 axle. So if you skate inline and your bearings sit loose, or refuse to seat, run the same check. Do not just assume 608. Second, never force a bearing onto an axle to test the fit. A bearing that fits will slide on with light pressure. If it does not, it is the wrong size. Forcing it damages both the bearing and the axle, and then you have two problems instead of one."
+    },
+    {
+      "type": "diagram",
+      "heading": "",
+      "svg_index": 1,
+      "chapter": "How many bearings you need",
+      "narration": "Once you have the right size, the next question is how many. Quad skaters sometimes order half of what they need. Every wheel takes two bearings, one on each side, so the wheel spins evenly on the axle. A quad skate has four wheels, so that is eight bearings per skate. You have two skates. So a pair of quads needs sixteen bearings in total. Two per wheel, four wheels per skate, two skates. Sixteen is the number to order."
+    },
+    {
+      "type": "diagram",
+      "heading": "",
+      "svg_index": 2,
+      "chapter": "Steel or ceramic",
+      "narration": "Now, steel or ceramic. The steel choice in the LiveLica range is the Power Bearings 627 ABEC 11. It pairs an ABEC 11 rating with P6 precision for a smooth roll. A nylon cage holds each ball accurately in the raceway, and double lumen contact seals keep out dust. For most quad skaters, from club level to serious training, it is a very capable bearing. The ceramic choice is the Swiss Ceramic 627, built for quad speed and long distance racing. It uses silicon nitride hybrid ceramic balls, which the maker says are about half the weight of steel. The ceramic is also cryogenically treated for efficiency and durability."
+    },
+    {
+      "type": "points",
+      "heading": "What ABEC actually tells you",
+      "bullets": [
+        "ABEC measures manufacturing tolerance",
+        "Higher number means tighter tolerances",
+        "Cage, seals and ball material matter too",
+        "So does how well you maintain it"
+      ],
+      "chapter": "What ABEC really means",
+      "narration": "ABEC ratings cause a lot of confusion, so let us be clear. ABEC measures manufacturing tolerance. A higher number means the bearing was made to tighter tolerances. What it does not do is describe everything that decides how a bearing feels under your feet. Cage design matters. Seal quality matters. Ball material matters. And how well you look after the bearing matters too. That is why a good bearing lists its precision, cage and seals, rather than leaning on the ABEC number alone. So treat ABEC as one useful clue. It is not the whole verdict."
+    },
+    {
+      "type": "points",
+      "heading": "Fitting and looking after them",
+      "bullets": [
+        "Two bearings per wheel, one each side",
+        "Spacer between them if your wheels use one",
+        "Spins freely, no side to side play",
+        "Clean when dry or slow, then re oil"
+      ],
+      "chapter": "Fitting and care",
+      "narration": "Fitting is simple once you have the right size and number. Seat two bearings into each wheel, one from each side. Put a spacer between them if your wheels use one. Slide the wheel onto the axle, and tighten until the wheel spins freely with no side to side play. Overtightening is the most common setup error. It will slow you down more than any rating will speed you up. Then keep them clean. Sealed bearings resist dust and water well, but no seal is permanent. Grit that gets past will grind away your roll. Clean them when they sound dry or feel slow, and re oil them with a light, clean oil. Ceramic handles heat and water better than steel, but it still needs clean oil. Ceramic does not mean maintenance free."
+    },
+    {
+      "type": "end",
+      "heading": "Match the bearing to the axle",
+      "sub": "Full guide at livelica.com, link in the description",
+      "chapter": "Which one to buy",
+      "narration": "So which one should you buy? If you skate quads regularly, train at club level, and want a precise, well sealed bearing that lasts, the steel 627 is the sensible pick. If you race quads, especially over long distance, and want the lightest, most efficient option on a 627 axle, the ceramic is built for that. Both fit the same axle. The choice is about how hard you push them. And if your skates turn out to be on 608, you are not stuck. The ceramic also comes in a 608 version. Whatever you choose, remember the one idea. Match the bearing to the axle, never the other way round. The full guide is on the LiveLica blog, and the link is in the description."
+    }
+  ]
+}

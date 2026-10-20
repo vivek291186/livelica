@@ -1,0 +1,363 @@
+1
+00:00:00,000 --> 00:00:00,252
+Yes.
+
+2
+00:00:00,252 --> 00:00:10,561
+Your short track blade ends have to be rounded, and by the end of this guide you will know how to check all four of them in two minutes and how to fix one at home.
+
+3
+00:00:10,561 --> 00:00:16,062
+We will cover what the rule actually says, why it exists, and what a closed tube means.
+
+4
+00:00:16,062 --> 00:00:27,066
+Then we will gauge a tip against a simple paper circle, shape it without touching the part of the blade you skate on, and look at the moments when it is worth checking again.
+
+5
+00:00:27,766 --> 00:00:31,798
+The requirement comes from the International Skating Union.
+
+6
+00:00:31,798 --> 00:00:40,749
+Its communication on protection equipment in speed skating and short track is based on Rules 224 and 291, and the wording is exact.
+
+7
+00:00:40,749 --> 00:00:49,837
+The blades of all skaters must have the tubes closed, and the blade ends must be rounded off with a minimum radius of 10 millimetres.
+
+8
+00:00:49,837 --> 00:00:53,732
+National bodies publish the same idea in their own words.
+
+9
+00:00:53,732 --> 00:01:00,497
+Skate Canada, for example, says blade tubes must be closed and front and back tips must be rounded.
+
+10
+00:01:00,497 --> 00:01:08,424
+So read the regulations for the competition you have entered, and check there is nothing newer before a major event.
+
+11
+00:01:08,424 --> 00:01:10,405
+The principle stays the same.
+
+12
+00:01:10,405 --> 00:01:14,710
+No points at either end of either blade, and no open tube ends.
+
+13
+00:01:15,410 --> 00:01:17,705
+Think about what short track is.
+
+14
+00:01:17,705 --> 00:01:23,297
+A pack of skaters races on a 111.12 metre oval with sharpened steel underfoot.
+
+15
+00:01:23,297 --> 00:01:28,747
+When somebody goes down, everyone arrives at the same patch of ice at speed.
+
+16
+00:01:28,747 --> 00:01:34,913
+In that moment, the ends of a blade are the parts most likely to reach another skater.
+
+17
+00:01:34,913 --> 00:01:39,861
+They sit furthest forward and furthest back, so they get there first.
+
+18
+00:01:39,861 --> 00:01:42,370
+The rule itself gives no reasoning.
+
+19
+00:01:42,370 --> 00:01:44,234
+But it is not hard to see.
+
+20
+00:01:44,234 --> 00:01:48,106
+A square corner concentrates that contact in one spot.
+
+21
+00:01:48,106 --> 00:01:49,755
+A curve spreads it out.
+
+22
+00:01:50,455 --> 00:01:54,258
+The rule gives you a radius, but not a way to eyeball one.
+
+23
+00:01:54,258 --> 00:01:56,815
+In practice, you judge the end profile.
+
+24
+00:01:56,815 --> 00:02:01,076
+That is the shape you see when you look at the tip from the side.
+
+25
+00:02:01,076 --> 00:02:03,305
+Put cut resistant gloves on first.
+
+26
+00:02:03,305 --> 00:02:07,107
+The tip is blunt, but the edges either side of it are not.
+
+27
+00:02:07,107 --> 00:02:08,484
+Now look at each end.
+
+28
+00:02:08,484 --> 00:02:16,089
+The steel should finish as a continuous curve, not as a corner where the running surface meets the end of the blade.
+
+29
+00:02:16,089 --> 00:02:17,728
+Then check all four ends.
+
+30
+00:02:17,728 --> 00:02:19,760
+Front and back, left and right.
+
+31
+00:02:19,760 --> 00:02:25,136
+A tip that met a kerb, a bench corner or another skate is usually the odd one out.
+
+32
+00:02:25,136 --> 00:02:29,856
+While you are there, feel for a raised lip along the sides near the tip.
+
+33
+00:02:29,856 --> 00:02:35,559
+That is burr from an earlier sharpen, not a shape problem, and it comes off in seconds.
+
+34
+00:02:36,259 --> 00:02:39,229
+Here is the end profile, seen from the side.
+
+35
+00:02:39,229 --> 00:02:42,806
+On the left, the steel stops dead and leaves a point.
+
+36
+00:02:42,806 --> 00:02:46,518
+On the right, the end finishes as one continuous curve.
+
+37
+00:02:46,518 --> 00:02:54,684
+To test yours, use a circle 20 millimetres across, because a 10 millimetre radius is the curve of a 20 millimetre circle.
+
+38
+00:02:54,684 --> 00:02:56,844
+Hold the circle against the tip.
+
+39
+00:02:56,844 --> 00:03:03,255
+If the blade curves tighter than the circle's edge, that end is under radius and needs shaping.
+
+40
+00:03:03,255 --> 00:03:08,722
+A coin of about that size works for a quick look, but coin sizes vary by country.
+
+41
+00:03:08,722 --> 00:03:12,772
+A 20 millimetre circle printed on paper is the honest gauge.
+
+42
+00:03:13,471 --> 00:03:18,604
+The tube is the spine that carries the running steel and bolts into your cups.
+
+43
+00:03:18,604 --> 00:03:21,038
+The rule only says it must be closed.
+
+44
+00:03:21,038 --> 00:03:31,236
+In practice, that means the ends are capped rather than left open, so there is no open edge at the front or back to catch a hand, a suit or another skater.
+
+45
+00:03:31,236 --> 00:03:34,132
+Short track race blades come built that way.
+
+46
+00:03:34,132 --> 00:03:41,106
+The most common way a compliant blade stops being one is a tube end split or peeled open in a heavy crash.
+
+47
+00:03:41,106 --> 00:03:48,343
+So after a fall, treat the tube ends as part of your inspection, alongside the cups, the bolts and the rocker.
+
+48
+00:03:49,043 --> 00:03:54,795
+If a tip has picked up a corner, you can fix it at home with the same kit you sharpen with.
+
+49
+00:03:54,795 --> 00:03:59,661
+You need something to hold the blade still, a bench stone and a deburr stone.
+
+50
+00:03:59,661 --> 00:04:02,821
+Clamp the blade in a jig so the steel cannot move.
+
+51
+00:04:02,821 --> 00:04:06,486
+Then work the tip with the coarse side of the bench stone.
+
+52
+00:04:06,486 --> 00:04:11,984
+Use short strokes that follow the curve you want, rather than scrubbing back and forth.
+
+53
+00:04:11,984 --> 00:04:16,408
+Check the profile against your 20 millimetre circle every few strokes.
+
+54
+00:04:16,408 --> 00:04:18,620
+Taking a little more steel is easy.
+
+55
+00:04:18,620 --> 00:04:20,137
+Putting any back is not.
+
+56
+00:04:20,837 --> 00:04:23,023
+One rule keeps you out of trouble.
+
+57
+00:04:23,023 --> 00:04:26,173
+Shape the end profile, never the running surface.
+
+58
+00:04:26,173 --> 00:04:30,802
+In this diagram, the green zones at each end are the only parts in play.
+
+59
+00:04:30,802 --> 00:04:34,273
+The blue section in the middle is the running surface.
+
+60
+00:04:34,273 --> 00:04:37,681
+Your rocker, your bend and your edges all live there.
+
+61
+00:04:37,681 --> 00:04:44,560
+The last centimetre or so at each end never carries you, so shaping it changes nothing about how you skate.
+
+62
+00:04:44,560 --> 00:04:49,574
+Take a stone to the middle, though, and you have changed how the blade skates.
+
+63
+00:04:50,274 --> 00:04:59,697
+Once the curve is right, blend the shoulders where the new curve meets the sides of the blade, so no flat spot or fresh corner is left behind.
+
+64
+00:04:59,697 --> 00:05:06,333
+Finish with a few light passes of a deburr stone so the tip carries no lip, then wipe the blade dry.
+
+65
+00:05:06,333 --> 00:05:11,177
+Skate a session on it before you race, as you would after any sharpening.
+
+66
+00:05:11,177 --> 00:05:11,973
+One warning.
+
+67
+00:05:11,973 --> 00:05:17,282
+If a tip is bent, cracked or missing material, that is a different conversation.
+
+68
+00:05:17,282 --> 00:05:21,861
+A blade in that state belongs in front of your coach, not on a stone.
+
+69
+00:05:22,561 --> 00:05:24,322
+Four moments deserve a look.
+
+70
+00:05:24,322 --> 00:05:28,223
+After any crash where a blade met another skate or the boards.
+
+71
+00:05:28,223 --> 00:05:37,408
+After heavy work with a coarse stone, because removing material along the length can leave a sharper transition at the ends than you started with.
+
+72
+00:05:37,408 --> 00:05:40,553
+After travel, because blades knock about in a bag.
+
+73
+00:05:40,553 --> 00:05:44,894
+And at the start of a season, when a set has been sitting for months.
+
+74
+00:05:44,894 --> 00:05:47,536
+New blades are worth the same two minutes.
+
+75
+00:05:47,536 --> 00:05:52,066
+A race blade normally arrives with the ends shaped and the tubes closed.
+
+76
+00:05:52,066 --> 00:05:57,665
+But a set that has been through a courier is still a set you have not inspected yourself.
+
+77
+00:05:58,365 --> 00:06:01,029
+Does rounding the ends make you slower?
+
+78
+00:06:01,029 --> 00:06:01,234
+No.
+
+79
+00:06:01,234 --> 00:06:08,542
+The ends are not part of the surface that carries you, so shaping them changes nothing about grip or glide.
+
+80
+00:06:08,542 --> 00:06:11,479
+Does the same rule cover long track blades?
+
+81
+00:06:11,479 --> 00:06:11,753
+Yes.
+
+82
+00:06:11,753 --> 00:06:19,334
+The ISU requirement covers both speed skating and short track, and it is written for the blades of all skaters.
+
+83
+00:06:19,334 --> 00:06:21,930
+And what if your ends are not rounded?
+
+84
+00:06:21,930 --> 00:06:26,233
+Then it is non compliant equipment, not a matter of preference.
+
+85
+00:06:26,233 --> 00:06:30,673
+What that means on the day belongs to the officials at your meet.
+
+86
+00:06:30,673 --> 00:06:35,728
+A blade you shaped at home is a blade you never have to discuss with them.
+
+87
+00:06:36,428 --> 00:06:38,886
+So here is the one thing to remember.
+
+88
+00:06:38,886 --> 00:06:43,403
+Four ends, a 20 millimetre circle, two minutes at the kitchen table.
+
+89
+00:06:43,403 --> 00:06:47,057
+The reward for doing it is that nothing happens at all.
+
+90
+00:06:47,057 --> 00:06:55,428
+The full guide is on the LiveLica blog, with links to our guides on sharpening, deburring and checking your kit after a crash.
+
+91
+00:06:55,428 --> 00:06:57,488
+The link is in the description.

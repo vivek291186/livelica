@@ -1,0 +1,46 @@
+{
+ "tag": "SHORT TRACK BLADES",
+ "article_html": "article.html",
+ "slides": [
+  {
+   "type": "cover",
+   "title": "Do your blade ends have to be rounded?",
+   "sub": "Yes. Check all four in two minutes"
+  },
+  {
+   "type": "point",
+   "title": "The rule is exact",
+   "body": "ISU Communication No. 2636 says tubes must be closed and blade ends rounded to a minimum radius of 10 mm. No points at either end of either blade."
+  },
+  {
+   "type": "point",
+   "title": "Use a 20 mm circle",
+   "body": "A 10 mm radius is the curve of a 20 mm circle. If the tip curves tighter than that circle, the end needs shaping."
+  },
+  {
+   "type": "diagram",
+   "title": "Square corner or rounded end",
+   "svg_index": 0,
+   "caption": "Judge the end profile from the side, at the front and back of both blades."
+  },
+  {
+   "type": "point",
+   "title": "Check all four ends",
+   "body": "Front and back, left and right, with cut resistant gloves on. A tip that met a kerb, a bench or another skate is usually the odd one out."
+  },
+  {
+   "type": "point",
+   "title": "Shape the ends, never the middle",
+   "body": "Clamp the blade in a jig and follow the curve with short strokes of a bench stone. Your rocker, bend and edges live on the running surface. Leave it."
+  },
+  {
+   "type": "quote",
+   "text": "Four ends, a 20 mm circle, two minutes."
+  },
+  {
+   "type": "cta",
+   "title": "Full guide: gauge, shape and when to recheck",
+   "body": "Link in bio"
+  }
+ ]
+}
