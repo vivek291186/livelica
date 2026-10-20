@@ -1,0 +1,47 @@
+{
+ "tag": "BLADE CARE",
+ "article_html": "article.html",
+ "slides": [
+  {
+   "type": "cover",
+   "title": "Why your blades wash out in corners",
+   "sub": "Sharpen short track blades the right way"
+  },
+  {
+   "type": "point",
+   "title": "The jig matters more than the stone",
+   "body": "A stone can only follow the surface it is given. A blade clamped slightly twisted gets a taper that grips at the front and washes out at the back."
+  },
+  {
+   "type": "diagram",
+   "title": "Three edges, seen end on",
+   "svg_index": 0,
+   "caption": "Sharpening turns a rounded or burred edge back into a flat bottom with two crisp corners."
+  },
+  {
+   "type": "point",
+   "title": "Save the coarse side",
+   "body": "Use it only for a nick, a rust pit or a corner gone round. Most sessions belong on the fine side, with long, even passes."
+  },
+  {
+   "type": "point",
+   "title": "Always remove the burr",
+   "body": "Sharpening leaves a thin lip of steel that feels sharp and folds on the ice. A few light passes with a diamond deburr stone on both sides take it off."
+  },
+  {
+   "type": "point",
+   "title": "Polish for glide",
+   "body": "Sharpening gives you grip. Polishing gives you glide. Work the triangle from blue to green to pink until the gliding surface is a clean mirror."
+  },
+  {
+   "type": "point",
+   "title": "Look for a bright line",
+   "body": "A dull edge reflects a bright line. A truly sharp edge reflects nothing back. Any bright spot is a flat you have not reached yet."
+  },
+  {
+   "type": "cta",
+   "title": "Stone care, rust and how often to sharpen",
+   "body": "Link in bio"
+  }
+ ]
+}

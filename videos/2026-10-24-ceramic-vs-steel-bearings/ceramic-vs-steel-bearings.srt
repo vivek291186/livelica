@@ -1,0 +1,443 @@
+1
+00:00:00,000 --> 00:00:07,592
+If you are choosing between ceramic and steel skate bearings, you will know which one to buy by the end of this.
+
+2
+00:00:07,592 --> 00:00:09,693
+Here is the short answer first.
+
+3
+00:00:09,693 --> 00:00:12,880
+If you race seriously, ceramic earns its price.
+
+4
+00:00:12,880 --> 00:00:18,167
+It spins up faster, runs cooler and holds its speed deeper into a long effort.
+
+5
+00:00:18,167 --> 00:00:25,421
+If you train most days, or you want the most speed for your money, a precision steel set is the better buy.
+
+6
+00:00:25,421 --> 00:00:27,929
+It also leaves you budget for wheels.
+
+7
+00:00:27,929 --> 00:00:30,844
+For most skaters, that is the whole answer.
+
+8
+00:00:30,844 --> 00:00:39,114
+The rest explains why, what ceramic really means on the box, how much speed is on the table, and how to keep any set fast.
+
+9
+00:00:39,814 --> 00:00:45,326
+Every push you make has to travel through your bearings before it reaches the ground.
+
+10
+00:00:45,326 --> 00:00:48,373
+Lower friction means more roll for each stride.
+
+11
+00:00:48,373 --> 00:00:50,707
+It means less energy wasted as heat.
+
+12
+00:00:50,707 --> 00:00:54,792
+And it means a bearing that stays fast deeper into a long race.
+
+13
+00:00:54,792 --> 00:00:57,840
+A single four wheel skate holds eight bearings.
+
+14
+00:00:57,840 --> 00:00:59,201
+A pair holds sixteen.
+
+15
+00:00:59,201 --> 00:01:03,092
+Every one of them is turning for as long as you are rolling.
+
+16
+00:01:03,092 --> 00:01:06,139
+How they perform comes down to two things only.
+
+17
+00:01:06,139 --> 00:01:09,900
+How the bearing was built, and how well you look after it.
+
+18
+00:01:09,900 --> 00:01:12,364
+You control the second one completely.
+
+19
+00:01:12,364 --> 00:01:15,736
+Keep that in mind, because it comes back at the end.
+
+20
+00:01:16,436 --> 00:01:18,735
+Here is a bearing in cross section.
+
+21
+00:01:18,735 --> 00:01:21,231
+The outer blue ring is the outer race.
+
+22
+00:01:21,231 --> 00:01:26,617
+The grey ring near the middle is the inner race, around the eight millimetre bore.
+
+23
+00:01:26,617 --> 00:01:28,653
+Between them, seven balls roll.
+
+24
+00:01:28,653 --> 00:01:33,448
+The green dashed line is the cage, which keeps those balls evenly spaced.
+
+25
+00:01:33,448 --> 00:01:39,097
+A well made cage positions each ball accurately, which cuts friction and extends life.
+
+26
+00:01:39,097 --> 00:01:40,936
+The orange line is the seal.
+
+27
+00:01:40,936 --> 00:01:46,782
+It keeps dirt and water away from the polished surfaces that let the bearing spin freely.
+
+28
+00:01:46,782 --> 00:01:55,453
+The quality of each of these parts, and how precisely they are made and finished, is what separates a fast bearing from a cheap one.
+
+29
+00:01:56,153 --> 00:01:59,668
+Before you think about materials, check your size.
+
+30
+00:01:59,668 --> 00:02:03,464
+Almost every inline speed wheel takes the 608 bearing.
+
+31
+00:02:03,464 --> 00:02:10,845
+That is eight millimetres on the bore, twenty two millimetres on the outside, and seven millimetres wide.
+
+32
+00:02:10,845 --> 00:02:13,024
+Quad skaters are the exception.
+
+33
+00:02:13,024 --> 00:02:16,399
+Many quad hubs use the smaller 627 bore instead.
+
+34
+00:02:16,399 --> 00:02:22,585
+The two are not interchangeable, so confirm which one your wheels take before you order.
+
+35
+00:02:22,585 --> 00:02:28,630
+A standard pair of four wheel inline skates needs sixteen bearings, two in each wheel.
+
+36
+00:02:28,630 --> 00:02:35,801
+Ordering the wrong bore is the most expensive mistake you can make here, and the easiest one to avoid.
+
+37
+00:02:36,501 --> 00:02:37,900
+Now the big question.
+
+38
+00:02:37,900 --> 00:02:41,497
+Ceramic balls are lighter and harder than steel balls.
+
+39
+00:02:41,497 --> 00:02:46,094
+Because they are lighter, they spin up faster and carry less inertia.
+
+40
+00:02:46,094 --> 00:02:50,757
+Because they are harder and smoother, they run cooler and last longer.
+
+41
+00:02:50,757 --> 00:02:52,756
+You can see that in the chart.
+
+42
+00:02:52,756 --> 00:02:58,818
+The blue ceramic bars lead on spin up speed, on staying cool under load, and on durability.
+
+43
+00:02:58,818 --> 00:03:00,483
+But look at the last row.
+
+44
+00:03:00,483 --> 00:03:04,280
+On value for money, the grey steel bar is clearly longer.
+
+45
+00:03:04,280 --> 00:03:08,078
+Good steel bearings still roll beautifully and cost less.
+
+46
+00:03:08,078 --> 00:03:10,609
+The bars are indicative, not measured.
+
+47
+00:03:10,609 --> 00:03:13,407
+The point is that neither choice is wrong.
+
+48
+00:03:13,407 --> 00:03:16,272
+The right one depends on how much you race.
+
+49
+00:03:16,971 --> 00:03:21,431
+Here is the part almost nobody explains before you spend the money.
+
+50
+00:03:21,431 --> 00:03:26,690
+When a skate bearing is sold as ceramic, it nearly always means hybrid ceramic.
+
+51
+00:03:26,690 --> 00:03:31,682
+That is the bearing on the left, with ceramic balls running in steel races.
+
+52
+00:03:31,682 --> 00:03:36,009
+The one on the right is full ceramic, with ceramic races as well.
+
+53
+00:03:36,009 --> 00:03:40,202
+That is a different thing, and it is not what skate shops sell.
+
+54
+00:03:40,202 --> 00:03:41,866
+This matters in two ways.
+
+55
+00:03:41,866 --> 00:03:46,526
+First, the steel races can still rust if you put your skates away wet.
+
+56
+00:03:46,526 --> 00:03:49,388
+Ceramic does not make a bearing rust proof.
+
+57
+00:03:49,388 --> 00:03:55,844
+Second, the bearing still needs light oil, because the races and the cage still need lubrication.
+
+58
+00:03:55,844 --> 00:03:59,838
+A ceramic bearing run dry is just an expensive slow bearing.
+
+59
+00:04:00,538 --> 00:04:04,237
+You will see two ceramic materials in skate bearings.
+
+60
+00:04:04,237 --> 00:04:06,261
+The first is silicon nitride.
+
+61
+00:04:06,261 --> 00:04:11,635
+It is prized for elite speed, because it is extremely hard, light and smooth.
+
+62
+00:04:11,635 --> 00:04:13,240
+The second is zirconia.
+
+63
+00:04:13,240 --> 00:04:20,220
+It trades a little outright speed for toughness, which makes it the more forgiving way into ceramic.
+
+64
+00:04:20,220 --> 00:04:26,989
+In the LiveLica range, the Swiss Ceramic uses silicon nitride and the Gold Ceramic uses zirconia.
+
+65
+00:04:26,989 --> 00:04:29,083
+Both still sit in steel races.
+
+66
+00:04:29,083 --> 00:04:34,597
+So everything you just heard about oil and dry storage applies to both of them.
+
+67
+00:04:35,297 --> 00:04:39,766
+Less than the marketing implies, and more than the sceptics claim.
+
+68
+00:04:39,766 --> 00:04:48,974
+The maker of one top ceramic set states a saving of zero point eight to one watt per bearing, against a typical precision steel bearing.
+
+69
+00:04:48,974 --> 00:04:56,828
+Across the sixteen bearings in a pair, that is roughly thirteen to sixteen watts, on the manufacturer's own figures.
+
+70
+00:04:56,828 --> 00:04:59,401
+That is a real number over a marathon.
+
+71
+00:04:59,401 --> 00:05:03,328
+It is a much smaller one over a five hundred metre sprint.
+
+72
+00:05:03,328 --> 00:05:04,614
+Read it in context.
+
+73
+00:05:04,614 --> 00:05:09,422
+Those figures come from controlled conditions, not a dusty Indian road.
+
+74
+00:05:09,422 --> 00:05:17,953
+Lower rotating weight is the part most skaters actually notice, and they notice it most in the first few strides off the line.
+
+75
+00:05:18,653 --> 00:05:21,368
+Two more numbers come up when you shop.
+
+76
+00:05:21,368 --> 00:05:23,039
+The first is ball count.
+
+77
+00:05:23,039 --> 00:05:25,127
+Most bearings use seven balls.
+
+78
+00:05:25,127 --> 00:05:26,032
+Some use six.
+
+79
+00:05:26,032 --> 00:05:32,576
+Fewer balls means fewer points of contact, which reduces friction and can raise top end speed.
+
+80
+00:05:32,576 --> 00:05:36,057
+Slightly larger balls keep strength and life high.
+
+81
+00:05:36,057 --> 00:05:39,398
+It suits experienced racers with a clean stride.
+
+82
+00:05:39,398 --> 00:05:41,487
+The second is the ABEC rating.
+
+83
+00:05:41,487 --> 00:05:45,316
+ABEC is a rating of manufacturing tolerance, not speed.
+
+84
+00:05:45,316 --> 00:05:49,284
+A higher number means tighter precision, which is useful.
+
+85
+00:05:49,284 --> 00:05:54,018
+But it says nothing about ball material, cage design or lubrication.
+
+86
+00:05:54,018 --> 00:05:58,612
+Those have a bigger effect on how a bearing feels under your feet.
+
+87
+00:05:58,612 --> 00:06:01,675
+Treat ABEC as one clue, not the whole story.
+
+88
+00:06:02,375 --> 00:06:03,749
+So how do you choose?
+
+89
+00:06:03,749 --> 00:06:09,242
+If you train most days and want the best value, start with a high quality steel set.
+
+90
+00:06:09,242 --> 00:06:12,969
+If you race and want every advantage, move up to ceramic.
+
+91
+00:06:12,969 --> 00:06:16,827
+If you are new to ceramic, zirconia is the softest landing.
+
+92
+00:06:16,827 --> 00:06:20,620
+If you are a beginner, steel is usually the smarter spend.
+
+93
+00:06:20,620 --> 00:06:28,729
+Until your technique and fitness are what hold you back, good steel gives you most of the feel for a fraction of the outlay.
+
+94
+00:06:28,729 --> 00:06:31,802
+Spend the money you save on wheels or coaching.
+
+95
+00:06:31,802 --> 00:06:35,922
+Move to ceramic when your kit becomes the limit, not your legs.
+
+96
+00:06:36,622 --> 00:06:39,280
+Now the free speed most skaters ignore.
+
+97
+00:06:39,280 --> 00:06:44,663
+Clean, well oiled bearings roll faster and last far longer than neglected ones.
+
+98
+00:06:44,663 --> 00:06:50,864
+A bearing that has gone gritty and dry gives speed back faster than any upgrade can buy it.
+
+99
+00:06:50,864 --> 00:06:53,999
+Dirt and water are the enemies of a fast spin.
+
+100
+00:06:53,999 --> 00:06:58,496
+Wipe your bearings down, keep them dry, and re oil them regularly.
+
+101
+00:06:58,496 --> 00:07:05,787
+Re oil whenever the spin starts to feel slow or noisy, and always after skating in wet or dirty conditions.
+
+102
+00:07:05,787 --> 00:07:09,672
+A light, regular routine beats an occasional heavy clean.
+
+103
+00:07:09,672 --> 00:07:12,057
+And never put your skates away wet.
+
+104
+00:07:12,057 --> 00:07:19,757
+That is the mistake that quietly ruins a ceramic set, because the races are steel whatever the balls are made of.
+
+105
+00:07:20,457 --> 00:07:22,783
+So here is the one idea to remember.
+
+106
+00:07:22,783 --> 00:07:25,755
+Buy steel and clean it, and you will be quick.
+
+107
+00:07:25,755 --> 00:07:29,374
+Buy ceramic and still clean it, and you will be quicker.
+
+108
+00:07:29,374 --> 00:07:33,251
+Skip the cleaning either way, and you have wasted the money.
+
+109
+00:07:33,251 --> 00:07:40,488
+If your bearings feel gritty right now, cleaning them will do more for your lap times than anything you can buy.
+
+110
+00:07:40,488 --> 00:07:47,724
+The full guide, with a comparison of four bearing sets and answers to common questions, is on the LiveLica blog.
+
+111
+00:07:47,724 --> 00:07:49,727
+The link is in the description.

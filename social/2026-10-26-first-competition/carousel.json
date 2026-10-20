@@ -1,0 +1,44 @@
+{
+  "tag": "SHORT TRACK RACING",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Racing your first short track meet?",
+      "sub": "The racing is the easy part. Know the day around it."
+    },
+    {
+      "type": "point",
+      "title": "Enter honestly, and not too much",
+      "body": "If you have never been timed, say so rather than guessing a seed time. Two distances is plenty for a first meet."
+    },
+    {
+      "type": "point",
+      "title": "Arrive 90 minutes early",
+      "body": "Sign on first, then find where the start list goes up and where skaters are called from, before your boots are half laced."
+    },
+    {
+      "type": "point",
+      "title": "The kit check",
+      "body": "Helmet, cut resistant neck and ankle protection, gloves, knee and shin protection, undersuit. Pack it before you leave home."
+    },
+    {
+      "type": "point",
+      "title": "Use the warm up to read the ice",
+      "body": "Feel how the edges bite, take a few corners near race speed, and note where the track markers sit."
+    },
+    {
+      "type": "point",
+      "title": "Expect long gaps",
+      "body": "Heats in the morning and a final late in the afternoon is normal. Warm layers on as you leave the ice, eat little and often, keep moving gently."
+    },
+    {
+      "type": "quote",
+      "text": "A skater who misses a call is not in the race."
+    },
+    {
+      "type": "cta",
+      "title": "The full first meet guide on LiveLica",
+      "body": "Link in bio"
+    }
+  ]
+}

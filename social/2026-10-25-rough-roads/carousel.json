@@ -1,0 +1,14 @@
+{
+  "tag": "ROAD SKATING",
+  "article_html": "article.html",
+  "slides": [
+    {"type": "cover", "title": "Cracks and speed breakers ruining your session?", "sub": "Rough road skating is a skill you can learn"},
+    {"type": "point", "title": "Lift your eyes", "body": "Pick your line 15 to 20 metres ahead and commit at 5 to 8 metres. Most skaters look at their own wheels, and every hazard arrives with no time attached."},
+    {"type": "diagram", "title": "Cross cracks close to square", "svg_index": 0, "caption": "Met at a shallow angle, a crack swallows the wheel and steers it. Met close to square, it is a short bump."},
+    {"type": "point", "title": "Unweight over speed breakers", "body": "Stay low on the approach, let your hips float up as the front wheel reaches the hump, then settle and push once both skates are past."},
+    {"type": "point", "title": "Gravel and wet patches", "body": "Go around if you safely can. If not, cross in a straight line with no push, no lean and no steering. Most slips come from steering mid patch."},
+    {"type": "quote", "text": "Step over, unweight, or change the angle."},
+    {"type": "point", "title": "Let your setup help", "body": "A softer compound soaks up the buzz and a bigger diameter bridges more of every gap. Keep your bearings clean, because rough roads fill them with grit."},
+    {"type": "cta", "title": "Full rough road guide on the LiveLica blog", "body": "Link in bio"}
+  ]
+}
