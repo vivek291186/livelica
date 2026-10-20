@@ -1,0 +1,371 @@
+1
+00:00:00,000 --> 00:00:05,618
+By the end of this guide, you will know exactly what your short track blade is made of.
+
+2
+00:00:05,618 --> 00:00:10,527
+You will also know whether bimetal or full PM steel suits the way you train.
+
+3
+00:00:10,527 --> 00:00:13,692
+A short track blade looks like one simple object.
+
+4
+00:00:13,692 --> 00:00:16,533
+A shiny runner, a tube and a couple of cups.
+
+5
+00:00:16,533 --> 00:00:21,377
+Look closer and it is really two very different materials working together.
+
+6
+00:00:21,377 --> 00:00:29,709
+Knowing how they fit tells you how the skate will feel in a corner, how often you will sharpen, and how long your edge will last.
+
+7
+00:00:30,409 --> 00:00:35,297
+A short track blade has to do two jobs that pull in opposite directions.
+
+8
+00:00:35,297 --> 00:00:42,019
+First, it has to be light and stiff, so it does not rob energy from your push or wobble under load.
+
+9
+00:00:42,019 --> 00:00:47,314
+Second, it needs a hard, keen edge that bites the ice and survives sharpening.
+
+10
+00:00:47,314 --> 00:00:49,758
+No single metal does both jobs well.
+
+11
+00:00:49,758 --> 00:00:55,054
+Aluminium is light and stiff for its weight, but far too soft to hold an edge.
+
+12
+00:00:55,054 --> 00:01:01,979
+Hardened steel holds a beautiful edge, but a whole blade made of it would feel heavy, dead and clumsy.
+
+13
+00:01:01,979 --> 00:01:03,541
+So the sport uses both.
+
+14
+00:01:04,241 --> 00:01:08,750
+Here is how the pieces fit together, from your boot down to the ice.
+
+15
+00:01:08,750 --> 00:01:10,673
+At the top is your boot sole.
+
+16
+00:01:10,673 --> 00:01:17,171
+Below it sit two aluminium cups, one at each end, which bolt to the boot and set the blade height.
+
+17
+00:01:17,171 --> 00:01:21,879
+The cups hold the aluminium tube, which is the light body of the blade.
+
+18
+00:01:21,879 --> 00:01:27,117
+Along the very bottom runs a thin strip of hardened steel, shown here in green.
+
+19
+00:01:27,117 --> 00:01:31,162
+That steel runner is what you skate on, and what you sharpen.
+
+20
+00:01:31,162 --> 00:01:33,947
+Everything above it exists for one reason.
+
+21
+00:01:33,947 --> 00:01:41,308
+It holds that steel in exactly the right place, corner after corner, while adding as little weight as possible.
+
+22
+00:01:42,007 --> 00:01:44,516
+The long spine of the blade is the tube.
+
+23
+00:01:44,516 --> 00:01:48,279
+How the tube is shaped is a big part of how the blade feels.
+
+24
+00:01:48,279 --> 00:01:52,732
+The pillars and lips are the parts that join the tube down to the cups.
+
+25
+00:01:52,732 --> 00:02:00,321
+How thick and how flexible they are decides whether the skate feels planted and direct, or soft and free under your foot.
+
+26
+00:02:00,321 --> 00:02:03,331
+At each end, a cup bolts the blade to your boot.
+
+27
+00:02:03,331 --> 00:02:06,216
+Cup height matters more than beginners expect.
+
+28
+00:02:06,216 --> 00:02:13,617
+More height lifts the blade further from the boot, so you can lean deeper into a corner before your boot touches down.
+
+29
+00:02:13,617 --> 00:02:16,941
+Less height feels lower, more stable and more direct.
+
+30
+00:02:17,641 --> 00:02:21,866
+When you choose a blade, you are usually offered two steels.
+
+31
+00:02:21,866 --> 00:02:26,021
+Each one is quoted with a hardness number on the HRC scale.
+
+32
+00:02:26,021 --> 00:02:31,655
+HRC is the Rockwell C scale, which engineers use to measure how hard a metal is.
+
+33
+00:02:31,655 --> 00:02:34,261
+A higher number means a harder steel.
+
+34
+00:02:34,261 --> 00:02:39,050
+Short track runners sit in a narrow band near the top of that scale.
+
+35
+00:02:39,050 --> 00:02:45,459
+That means a difference of just two points changes the way a blade behaves from day to day.
+
+36
+00:02:45,459 --> 00:02:51,093
+So when you see 62 or 64 next to a blade, that small gap is worth understanding.
+
+37
+00:02:51,793 --> 00:02:55,291
+This scale runs from 60 to 66 on the HRC scale.
+
+38
+00:02:55,291 --> 00:02:58,343
+On the left, in orange, is bimetal at 62.
+
+39
+00:02:58,343 --> 00:03:02,139
+It is softer, more forgiving and easier to sharpen.
+
+40
+00:03:02,139 --> 00:03:05,190
+On the right, in green, is full PM at 64.
+
+41
+00:03:05,190 --> 00:03:11,071
+It is harder, longer lasting, and holds an edge for longer between sharpenings.
+
+42
+00:03:11,071 --> 00:03:13,676
+Neither one is better in every way.
+
+43
+00:03:13,676 --> 00:03:17,769
+They simply trade ease of sharpening against edge life.
+
+44
+00:03:17,769 --> 00:03:22,161
+Keep this picture in mind as we look at each steel in turn.
+
+45
+00:03:22,861 --> 00:03:26,997
+Bimetal is the slightly softer of the two steels, at 62 HRC.
+
+46
+00:03:26,997 --> 00:03:29,961
+The word bimetal describes how it is built.
+
+47
+00:03:29,961 --> 00:03:34,097
+A harder edge material is joined to a more workable backing.
+
+48
+00:03:34,097 --> 00:03:38,785
+That gives you a keen edge on a body that is a touch more forgiving.
+
+49
+00:03:38,785 --> 00:03:42,162
+Because it is softer, bimetal is easy to sharpen.
+
+50
+00:03:42,162 --> 00:03:49,883
+If you nick an edge, or need to bring a blade back quickly between sessions, bimetal responds fast on the stone.
+
+51
+00:03:49,883 --> 00:03:54,501
+Many skaters, and almost all newer racers, are happiest on bimetal.
+
+52
+00:03:54,501 --> 00:03:59,671
+It asks less of your sharpening skill, and gets you back on the ice sooner.
+
+53
+00:04:00,372 --> 00:04:04,370
+Full PM is a harder powder metallurgy steel, at 64 HRC.
+
+54
+00:04:04,370 --> 00:04:10,551
+Powder metallurgy is a way of making steel from very fine, evenly mixed metal powder.
+
+55
+00:04:10,551 --> 00:04:16,949
+That produces a clean, consistent grain that can be run harder without becoming brittle.
+
+56
+00:04:16,949 --> 00:04:22,330
+At 64 HRC, this steel holds an edge noticeably longer between sharpenings.
+
+57
+00:04:22,330 --> 00:04:25,820
+That is a real advantage if you train most days.
+
+58
+00:04:25,820 --> 00:04:30,909
+You spend less time at the jig, and more time skating on a fresh edge.
+
+59
+00:04:30,909 --> 00:04:32,654
+The trade off is simple.
+
+60
+00:04:32,654 --> 00:04:38,398
+A harder steel takes a little more work and a little more care to sharpen well.
+
+61
+00:04:39,098 --> 00:04:44,975
+The honest way to choose is to match the steel to how hard and how often you skate.
+
+62
+00:04:44,975 --> 00:04:47,878
+Do not just reach for the hardest number.
+
+63
+00:04:47,878 --> 00:04:57,083
+If you skate a few sessions a week, and you are still building your sharpening routine, bimetal at 62 is the friendlier companion.
+
+64
+00:04:57,083 --> 00:05:03,313
+If you train heavily, race often and want to sharpen less, full PM at 64 earns its keep.
+
+65
+00:05:03,313 --> 00:05:04,375
+One more point.
+
+66
+00:05:04,375 --> 00:05:08,624
+On StayBent blades, both steels share the same flex profile.
+
+67
+00:05:08,624 --> 00:05:13,297
+So you are choosing how the edge behaves, not how the blade feels.
+
+68
+00:05:13,997 --> 00:05:15,588
+Steel decides your edge.
+
+69
+00:05:15,588 --> 00:05:17,379
+The body decides your feel.
+
+70
+00:05:17,379 --> 00:05:25,204
+Two blades can carry the same steel and skate completely differently, because of how their tube and lips are designed.
+
+71
+00:05:25,204 --> 00:05:27,326
+This diagram compares two tubes.
+
+72
+00:05:27,326 --> 00:05:30,509
+On top is an even tube, like the one on the QCS.
+
+73
+00:05:30,509 --> 00:05:36,742
+Its stiffness is the same along the full length, which gives you stability through every push.
+
+74
+00:05:36,742 --> 00:05:40,191
+Below is a tapered tube, like the one on the JaeBee.
+
+75
+00:05:40,191 --> 00:05:44,435
+The top of the tube tapers down from the centre toward each end.
+
+76
+00:05:44,435 --> 00:05:47,286
+So the tips have more give than the middle.
+
+77
+00:05:47,286 --> 00:05:54,581
+That creates a progressive flex, and a softer, more forgiving corner for skaters who like to skate with touch.
+
+78
+00:05:55,281 --> 00:05:58,885
+Your blade steel also shapes your maintenance routine.
+
+79
+00:05:58,885 --> 00:06:05,559
+A softer bimetal edge comes back quickly on the stone, so a light touch up between sessions is easy.
+
+80
+00:06:05,559 --> 00:06:09,631
+A harder full PM edge lasts longer before it needs attention.
+
+81
+00:06:09,631 --> 00:06:15,971
+But when it does, you want good technique and clean tools, so you do not chase the edge around.
+
+82
+00:06:15,971 --> 00:06:19,242
+Whichever steel you run, the basics are the same.
+
+83
+00:06:19,242 --> 00:06:22,512
+Hold the blade perfectly straight while you work.
+
+84
+00:06:22,512 --> 00:06:24,114
+Finish the edge cleanly.
+
+85
+00:06:24,114 --> 00:06:30,321
+Then knock off the burr, which is the tiny lip of raised metal that sharpening leaves behind.
+
+86
+00:06:31,021 --> 00:06:33,039
+So here is the short version.
+
+87
+00:06:33,039 --> 00:06:38,883
+Start with feel, because the tube and lips decide how a blade moves under your foot.
+
+88
+00:06:38,883 --> 00:06:40,484
+Then choose your steel.
+
+89
+00:06:40,484 --> 00:06:44,937
+Pick bimetal at 62 if you value easy sharpening and forgiveness.
+
+90
+00:06:44,937 --> 00:06:49,529
+Pick full PM at 64 if you train heavily and want longer edge life.
+
+91
+00:06:49,529 --> 00:06:55,374
+Buy the blade that matches how you skate today, not how you hope to skate next year.
+
+92
+00:06:55,374 --> 00:07:01,984
+The full guide, with every blade length and more detail on each model, is on the LiveLica blog.
+
+93
+00:07:01,984 --> 00:07:04,141
+The link is in the description.

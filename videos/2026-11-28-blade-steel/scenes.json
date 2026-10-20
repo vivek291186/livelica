@@ -1,0 +1,127 @@
+{
+  "title": "Short Track Blade Steel and Build Explained: Bimetal, Full PM and Aluminium",
+  "url": "https://www.livelica.com/blogs/short-track/short-track-blade-steel-and-build-explained-bimetal-full-pm-aluminium",
+  "thumbnail_text": "Bimetal or full PM: which blade steel?",
+  "article_html": "article.html",
+  "scenes": [
+    {
+      "type": "title",
+      "heading": "Short Track Blade Steel Explained",
+      "sub": "Bimetal, full PM and the aluminium body",
+      "chapter": "What a blade is made of",
+      "narration": "By the end of this guide, you will know exactly what your short track blade is made of. You will also know whether bimetal or full PM steel suits the way you train. A short track blade looks like one simple object. A shiny runner, a tube and a couple of cups. Look closer and it is really two very different materials working together. Knowing how they fit tells you how the skate will feel in a corner, how often you will sharpen, and how long your edge will last."
+    },
+    {
+      "type": "points",
+      "heading": "Why a blade is two materials",
+      "chapter": "Why two materials",
+      "bullets": [
+        "The body must be light and stiff",
+        "The edge must be hard and keen",
+        "Aluminium is light but too soft",
+        "Steel holds an edge but is heavy"
+      ],
+      "narration": "A short track blade has to do two jobs that pull in opposite directions. First, it has to be light and stiff, so it does not rob energy from your push or wobble under load. Second, it needs a hard, keen edge that bites the ice and survives sharpening. No single metal does both jobs well. Aluminium is light and stiff for its weight, but far too soft to hold an edge. Hardened steel holds a beautiful edge, but a whole blade made of it would feel heavy, dead and clumsy. So the sport uses both."
+    },
+    {
+      "type": "diagram",
+      "heading": "Anatomy of a short track blade",
+      "chapter": "Anatomy of a blade",
+      "svg_index": 0,
+      "narration": "Here is how the pieces fit together, from your boot down to the ice. At the top is your boot sole. Below it sit two aluminium cups, one at each end, which bolt to the boot and set the blade height. The cups hold the aluminium tube, which is the light body of the blade. Along the very bottom runs a thin strip of hardened steel, shown here in green. That steel runner is what you skate on, and what you sharpen. Everything above it exists for one reason. It holds that steel in exactly the right place, corner after corner, while adding as little weight as possible."
+    },
+    {
+      "type": "points",
+      "heading": "The tube, pillars and cups",
+      "chapter": "Tube, pillars and cups",
+      "bullets": [
+        "The tube is the blade's long spine",
+        "Pillars and lips join tube to cups",
+        "Their flex sets planted or free feel",
+        "Taller cups let you lean deeper"
+      ],
+      "narration": "The long spine of the blade is the tube. How the tube is shaped is a big part of how the blade feels. The pillars and lips are the parts that join the tube down to the cups. How thick and how flexible they are decides whether the skate feels planted and direct, or soft and free under your foot. At each end, a cup bolts the blade to your boot. Cup height matters more than beginners expect. More height lifts the blade further from the boot, so you can lean deeper into a corner before your boot touches down. Less height feels lower, more stable and more direct."
+    },
+    {
+      "type": "points",
+      "heading": "What HRC means",
+      "chapter": "What HRC means",
+      "bullets": [
+        "HRC is the Rockwell C hardness scale",
+        "A higher number means harder steel",
+        "Blades sit near the top of the scale",
+        "Two points change daily behaviour"
+      ],
+      "narration": "When you choose a blade, you are usually offered two steels. Each one is quoted with a hardness number on the HRC scale. HRC is the Rockwell C scale, which engineers use to measure how hard a metal is. A higher number means a harder steel. Short track runners sit in a narrow band near the top of that scale. That means a difference of just two points changes the way a blade behaves from day to day. So when you see 62 or 64 next to a blade, that small gap is worth understanding."
+    },
+    {
+      "type": "diagram",
+      "heading": "Two steels on one scale",
+      "chapter": "The hardness scale",
+      "svg_index": 1,
+      "narration": "This scale runs from 60 to 66 on the HRC scale. On the left, in orange, is bimetal at 62. It is softer, more forgiving and easier to sharpen. On the right, in green, is full PM at 64. It is harder, longer lasting, and holds an edge for longer between sharpenings. Neither one is better in every way. They simply trade ease of sharpening against edge life. Keep this picture in mind as we look at each steel in turn."
+    },
+    {
+      "type": "points",
+      "heading": "Bimetal at 62 HRC",
+      "chapter": "Bimetal at 62 HRC",
+      "bullets": [
+        "A hard edge on a workable backing",
+        "Easy to sharpen and forgiving",
+        "Comes back fast after a nick",
+        "Suits most newer racers"
+      ],
+      "narration": "Bimetal is the slightly softer of the two steels, at 62 HRC. The word bimetal describes how it is built. A harder edge material is joined to a more workable backing. That gives you a keen edge on a body that is a touch more forgiving. Because it is softer, bimetal is easy to sharpen. If you nick an edge, or need to bring a blade back quickly between sessions, bimetal responds fast on the stone. Many skaters, and almost all newer racers, are happiest on bimetal. It asks less of your sharpening skill, and gets you back on the ice sooner."
+    },
+    {
+      "type": "points",
+      "heading": "Full PM at 64 HRC",
+      "chapter": "Full PM at 64 HRC",
+      "bullets": [
+        "Powder metallurgy steel",
+        "A clean, consistent grain",
+        "Holds an edge noticeably longer",
+        "Takes more care to sharpen well"
+      ],
+      "narration": "Full PM is a harder powder metallurgy steel, at 64 HRC. Powder metallurgy is a way of making steel from very fine, evenly mixed metal powder. That produces a clean, consistent grain that can be run harder without becoming brittle. At 64 HRC, this steel holds an edge noticeably longer between sharpenings. That is a real advantage if you train most days. You spend less time at the jig, and more time skating on a fresh edge. The trade off is simple. A harder steel takes a little more work and a little more care to sharpen well."
+    },
+    {
+      "type": "points",
+      "heading": "Which steel suits your training",
+      "chapter": "Choosing your steel",
+      "bullets": [
+        "Match steel to how often you skate",
+        "A few sessions a week: bimetal",
+        "Heavy training and racing: full PM",
+        "Steel changes edge life, not flex"
+      ],
+      "narration": "The honest way to choose is to match the steel to how hard and how often you skate. Do not just reach for the hardest number. If you skate a few sessions a week, and you are still building your sharpening routine, bimetal at 62 is the friendlier companion. If you train heavily, race often and want to sharpen less, full PM at 64 earns its keep. One more point. On StayBent blades, both steels share the same flex profile. So you are choosing how the edge behaves, not how the blade feels."
+    },
+    {
+      "type": "diagram",
+      "heading": "The body decides your feel",
+      "chapter": "How the build shapes feel",
+      "svg_index": 2,
+      "narration": "Steel decides your edge. The body decides your feel. Two blades can carry the same steel and skate completely differently, because of how their tube and lips are designed. This diagram compares two tubes. On top is an even tube, like the one on the QCS. Its stiffness is the same along the full length, which gives you stability through every push. Below is a tapered tube, like the one on the JaeBee. The top of the tube tapers down from the centre toward each end. So the tips have more give than the middle. That creates a progressive flex, and a softer, more forgiving corner for skaters who like to skate with touch."
+    },
+    {
+      "type": "points",
+      "heading": "How steel changes your sharpening",
+      "chapter": "Steel and sharpening",
+      "bullets": [
+        "Bimetal: quick touch ups on the stone",
+        "Full PM: lasts longer, needs care",
+        "Hold the blade perfectly straight",
+        "Always knock off the burr"
+      ],
+      "narration": "Your blade steel also shapes your maintenance routine. A softer bimetal edge comes back quickly on the stone, so a light touch up between sessions is easy. A harder full PM edge lasts longer before it needs attention. But when it does, you want good technique and clean tools, so you do not chase the edge around. Whichever steel you run, the basics are the same. Hold the blade perfectly straight while you work. Finish the edge cleanly. Then knock off the burr, which is the tiny lip of raised metal that sharpening leaves behind."
+    },
+    {
+      "type": "end",
+      "heading": "Steel decides your edge. The body decides your feel.",
+      "sub": "Full guide at livelica.com, link in the description",
+      "chapter": "Summary",
+      "narration": "So here is the short version. Start with feel, because the tube and lips decide how a blade moves under your foot. Then choose your steel. Pick bimetal at 62 if you value easy sharpening and forgiveness. Pick full PM at 64 if you train heavily and want longer edge life. Buy the blade that matches how you skate today, not how you hope to skate next year. The full guide, with every blade length and more detail on each model, is on the LiveLica blog. The link is in the description."
+    }
+  ]
+}

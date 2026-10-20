@@ -1,0 +1,46 @@
+{
+ "tag": "WHEEL CARE",
+ "article_html": "article.html",
+ "slides": [
+  {
+   "type": "cover",
+   "title": "Why do my wheels click when I skate?",
+   "sub": "Find the cause in about five minutes"
+  },
+  {
+   "type": "point",
+   "title": "Spin it off the ground",
+   "body": "Lift the skate and spin each wheel by hand. A click with no weight on it sits in the wheel or bearing. A click only under load is a fit problem."
+  },
+  {
+   "type": "point",
+   "title": "Check the tread first",
+   "body": "If the click keeps time with the wheel, run a fingernail round the tread. A stone or glass chip ticks once per turn. Pick it out with a pin."
+  },
+  {
+   "type": "point",
+   "title": "Usually it is the spacer",
+   "body": "A spacer that is too long holds the bearings proud of the hub, so the wheel shuffles under load and clicks. One that is too short pinches the bearings, so you get drag instead."
+  },
+  {
+   "type": "diagram",
+   "title": "Three spacers, three sounds",
+   "svg_index": 0,
+   "caption": "Matched is quiet, too long clicks, too short drags."
+  },
+  {
+   "type": "point",
+   "title": "Do the rock test",
+   "body": "Hold the frame and rock the wheel across it. There should be no movement. If it knocks, bring the axle up to firm, then check it still spins free."
+  },
+  {
+   "type": "quote",
+   "text": "Check the spacer and the seating first."
+  },
+  {
+   "type": "cta",
+   "title": "The full five minute routine and fixes",
+   "body": "Link in bio"
+  }
+ ]
+}

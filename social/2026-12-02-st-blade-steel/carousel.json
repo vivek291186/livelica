@@ -1,0 +1,46 @@
+{
+ "tag": "SHORT TRACK GEAR",
+ "article_html": "article.html",
+ "slides": [
+  {
+   "type": "cover",
+   "title": "Bimetal or full PM blade steel?",
+   "sub": "What your short track blade is really made of"
+  },
+  {
+   "type": "point",
+   "title": "Your blade is two materials",
+   "body": "Aluminium is light and stiff but too soft to hold an edge. Hardened steel holds an edge but is heavy. So the body is aluminium, with a thin steel strip as the running edge."
+  },
+  {
+   "type": "diagram",
+   "title": "Inside a short track blade",
+   "svg_index": 0,
+   "caption": "Aluminium cups and tube on top, the steel runner you sharpen along the bottom."
+  },
+  {
+   "type": "point",
+   "title": "Bimetal at 62 HRC",
+   "body": "The softer option. It sharpens easily and comes back fast on the stone after a nick. Most newer racers are happiest on bimetal."
+  },
+  {
+   "type": "point",
+   "title": "Full PM at 64 HRC",
+   "body": "A harder powder metallurgy steel that holds an edge noticeably longer between sharpenings. It takes a little more work and care to sharpen well."
+  },
+  {
+   "type": "point",
+   "title": "Which steel suits you",
+   "body": "A few sessions a week and still building your sharpening routine? Bimetal suits you. Train heavily and want to sharpen less often? Full PM earns its keep."
+  },
+  {
+   "type": "quote",
+   "text": "Steel decides your edge. The body decides your feel."
+  },
+  {
+   "type": "cta",
+   "title": "The full guide to blade steel and build",
+   "body": "Link in bio"
+  }
+ ]
+}

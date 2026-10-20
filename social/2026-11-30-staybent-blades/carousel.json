@@ -1,0 +1,47 @@
+{
+ "tag": "SHORT TRACK GEAR",
+ "article_html": "article.html",
+ "slides": [
+  {
+   "type": "cover",
+   "title": "JaeBee, QCS or XC Flex Weapon?",
+   "sub": "Three StayBent blades, three different personalities on the ice"
+  },
+  {
+   "type": "point",
+   "title": "JaeBee is built for feel",
+   "body": "The most flexible blade in the StayBent range. A tapered tube gives progressive flex, so the tips give more than the middle through a technical corner."
+  },
+  {
+   "type": "point",
+   "title": "QCS stays planted",
+   "body": "Built on the same tube as the Quantum, with even stiffness along the full length. Many developing racers find that easier to trust."
+  },
+  {
+   "type": "point",
+   "title": "XC Flex Weapon is the flagship",
+   "body": "Precision built in the Netherlands for extra grip through the corner, with Precise Bend Technology for accurate, repeatable bend radiuses."
+  },
+  {
+   "type": "point",
+   "title": "Your boot length may decide it",
+   "body": "Only the JaeBee reaches down to 14.5. The QCS starts at 15. The XC Flex Weapon starts at 16.5 but is the only one in quarter steps."
+  },
+  {
+   "type": "diagram",
+   "title": "Lengths side by side",
+   "svg_index": 1,
+   "caption": "The JaeBee starts lowest, the XC Flex Weapon runs in quarter steps."
+  },
+  {
+   "type": "point",
+   "title": "Bimetal or full PM steel",
+   "body": "Bimetal is easier to sharpen and forgiving day to day. Full PM holds an edge longer for skaters who train most days."
+  },
+  {
+   "type": "cta",
+   "title": "Full comparison with lengths and setup",
+   "body": "Link in bio"
+  }
+ ]
+}

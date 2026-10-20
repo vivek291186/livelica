@@ -1,0 +1,135 @@
+{
+ "title": "Why Do My Inline Skate Wheels Click When I Skate?",
+ "url": "https://www.livelica.com/blogs/inline-speed-skating/why-do-my-inline-skate-wheels-click-when-i-skate",
+ "thumbnail_text": "Wheels clicking? Check the spacer first",
+ "article_html": "article.html",
+ "scenes": [
+  {
+   "type": "title",
+   "heading": "Why Do My Inline Skate Wheels Click?",
+   "sub": "Find the cause in about five minutes",
+   "chapter": "Why wheels click",
+   "narration": "If your inline wheels click when you skate, you can usually find the cause in about five minutes at a table. Here is how to do it without replacing parts at random. The cause is almost always a fit problem inside the wheel hub, not a worn out bearing. Most of the time the spacer does not match the wheel, a bearing is not pressed fully home, or an axle has worked loose. It is worth fixing. A wheel that clicks is moving somewhere it should not. Left alone, it wears the bearing seats in the hub oval. And a loose axle can eventually let go of the wheel."
+  },
+  {
+   "type": "points",
+   "heading": "First, split the noise in two",
+   "chapter": "Which noise do you have",
+   "bullets": [
+    "Lift the skate off the ground",
+    "Spin each wheel hard by hand",
+    "Click with no weight: wheel or bearing",
+    "Click only on an edge: a fit problem"
+   ],
+   "narration": "Skaters use words like click, knock, rattle and grind for very different problems. So start by splitting the sound in two. Lift the skate off the ground. Spin each wheel hard by hand, and listen. If you can still hear the click with no weight on the skate, it is attached to the wheel or sits inside the bearing. If the click only shows up once you are standing on an edge, it is a fit problem. Something is moving under load that should not be. That one split saves most of the guesswork."
+  },
+  {
+   "type": "points",
+   "heading": "Match the sound to the fault",
+   "chapter": "Matching sound to fault",
+   "bullets": [
+    "Click once per turn: something in the wheel",
+    "Sharp click on each push: spacer or bearing",
+    "Dull knock you feel: frame bolts",
+    "Rattle on rough roads: a slack fastener",
+    "Grind or hiss: inside the bearing"
+   ],
+   "narration": "Each sound points somewhere different. A sharp click once per wheel turn, even off the ground, means something is stuck to or broken in the wheel. A sharp click on each push, only under load, is usually a spacer mismatch or a bearing sitting proud of the hub. A dull knock on each push, which you often feel through the boot, points to frame mounting bolts or boot hardware that has gone slack. A loose rattle on rough surfaces is often a slack fastener or side play from a loose axle. A dry grind or hiss that does not keep time with the wheel is inside the bearing. And a steady scuff on one wheel means it is touching the frame wall, or the wheel is badly coned."
+  },
+  {
+   "type": "points",
+   "heading": "Look at the tread first",
+   "chapter": "Check the tread",
+   "bullets": [
+    "Run a fingernail round each tread",
+    "Pick out stones or glass with a pin",
+    "Check the core for hairline cracks",
+    "A cracked or separating wheel is done"
+   ],
+   "narration": "If the click keeps time with the wheel rather than with your stride, you can often see the cause. Run a fingernail round the tread of each wheel and look closely at the urethane. A stone, a chip of glass or a grain of grit pressed into the surface will tick against the road once every turn. These collect easily on broken road surfaces. Pick it out with a pin, and the noise goes with it. If the tread is clean, look at the core. A hairline crack in a plastic hub, or urethane starting to separate from the core, makes the same tick. Neither is worth saving. Take that wheel out of the set and move on."
+  },
+  {
+   "type": "points",
+   "heading": "The spacer is the usual culprit",
+   "chapter": "Why the spacer matters",
+   "bullets": [
+    "Two 608 bearings face each other",
+    "The spacer sets the gap between them",
+    "Clamping load runs through the spacer",
+    "Mixed parts can land slightly out"
+   ],
+   "narration": "Most speed wheels hold two 608 bearings facing each other, with a spacer between them. The spacer has one job. It sets the exact distance between the two inner races. So when you tighten the axle, the clamping load runs through the spacer and the inner races, rather than squeezing the bearings together. Hubs, bearings and spacers are all made to tolerances, and those tolerances stack up. If you mix a new set of wheels with old spacers, or spacers from another brand, the stack can land a fraction of a millimetre out. That small gap is enough to make noise."
+  },
+  {
+   "type": "diagram",
+   "heading": "Spacer length and what you hear",
+   "svg_index": 0,
+   "chapter": "Long spacer, short spacer",
+   "narration": "This diagram shows three wheel hubs in cross section. The blue blocks are the bearings, and the bar between them is the spacer. On the left, the spacer is matched. The bearings sit flush with the hub faces, and the wheel is quiet. In the middle, the spacer is too long. It holds the bearings slightly proud of the hub. The frame clamps the bearings, but the wheel still has a sliver of room to shuffle on them. Every time you load an edge, the hub shifts and lets go. That is the classic click under load. On the right, the spacer is too short. Tightening the axle pulls the bearings inward and pinches them. You get drag, not noise."
+  },
+  {
+   "type": "points",
+   "heading": "The two step flush test",
+   "chapter": "The flush test",
+   "bullets": [
+    "Press both bearings home, no spacer",
+    "Check each hub face with a fingernail",
+    "Add the spacer, press home, check again",
+    "Proud only with spacer: spacer too long",
+    "Proud both times: bearing not seating"
+   ],
+   "narration": "A long spacer and a bearing that will not seat feel the same through the skate. But they have opposite fixes. So run this two step test. First, press both bearings home with the spacer left out. Run a fingernail across the hub face at each bearing edge. Then pull one bearing out, drop the spacer in, press both home again, and check the same two faces. Flush without the spacer but proud with it means the spacer is too long for that hub. Proud both times means the bearing itself is not seating. Swap spacers between wheels and test again, because two wheels from the same set can behave differently. The quickest fix is often to go back to the spacers that came with your frame."
+  },
+  {
+   "type": "points",
+   "heading": "A bearing that never went home",
+   "chapter": "Seating the bearing",
+   "bullets": [
+    "Push each bearing in square, by thumb",
+    "It should finish level with the hub",
+    "Uneven force: look for a burr or grit",
+    "Oval seats mean the wheel is done"
+   ],
+   "narration": "The second cause looks identical from the outside. If a bearing went in at a slight angle, or stopped a hair short in a tight hub, the frame holds it but the hub does not support it properly. Under load it rocks in its seat, and you hear a click on every stride. With the spacer out, push each bearing straight in with your thumbs, keeping it square. It should seat with a firm, even push and finish level with the hub face. If one side always needs more force, look inside the hub for a burr or a trapped piece of grit. On well used wheels the bearing seats can wear oval. Once that happens, the click comes back however carefully you fit the bearings. That wheel has done its time."
+  },
+  {
+   "type": "points",
+   "heading": "Axle tension and the rock test",
+   "chapter": "The rock test",
+   "bullets": [
+    "Rock the wheel across the frame",
+    "There should be no movement",
+    "Tighten until the play disappears",
+    "Then check it still spins freely"
+   ],
+   "narration": "Hold the frame in one hand and try to rock the top of a wheel across the frame, not around it. If the wheel knocks from side to side, the axle is not firm, the spacer is missing, or the outer race has gone loose in a worn seat. Nip the axle up until the movement disappears, then spin the wheel. It should still run free and quiet. If tightening that far kills the spin, you are back to a spacer problem. Axles also work loose on their own, and Indian roads are hard on them. Watch for a noise that was not there at the start of a session and gets worse over the kilometres. Check your axles every few sessions, and always after a long road skate."
+  },
+  {
+   "type": "diagram",
+   "heading": "Check the rest of the skate",
+   "svg_index": 1,
+   "chapter": "When it is not the wheel",
+   "narration": "Sometimes the sound is not coming from a wheel at all. This diagram marks four places to press and listen before you strip anything. Number one is the frame mounting bolts. A slightly slack bolt lets the frame move against the boot sole. That makes a dull knock you usually feel as well as hear. Number two is the heel hardware. It can loosen and tap, and it sounds just like a wheel. Number three is the frame wall. Look for a shiny scuff line, which usually means a coned wheel or a slightly bent frame leg after a kerb strike. Number four is the cuff and lace hook. A buckle slapping the boot is easy to rule out."
+  },
+  {
+   "type": "points",
+   "heading": "The five minute routine",
+   "chapter": "Five minute routine",
+   "bullets": [
+    "Spin off the ground, then roll slowly",
+    "Fingernail round the tread",
+    "Rock test, then check every bolt",
+    "Run the two step flush test",
+    "Swap parts into a quiet wheel"
+   ],
+   "narration": "Put it together, and the diagnosis is quick. Work on a table, change one thing at a time, and stop as soon as the noise goes. Spin each wheel off the ground, then roll slowly, so you know whether the click needs load and which wheel it belongs to. Run a fingernail round that tread. Rock the wheel for side play, then put the key on every axle, mounting bolt and piece of boot hardware before you remove anything. If the click still needs load, pull the wheel and run the flush test. If it survives all that, move the same spacer and bearings into a wheel that has never clicked. If the noise follows them, the parts are at fault. If it stays with the old hub, the hub is worn."
+  },
+  {
+   "type": "end",
+   "heading": "Check the spacer and the seating first",
+   "sub": "Full guide at livelica.com, link in the description",
+   "chapter": "Keeping it quiet",
+   "narration": "To keep it quiet, keep the spacers and axles that came with your frame together with that frame, and check your axles regularly. Clean bearings help too, because dirt hides a fit noise under a general hiss. And remember, new bearings only stop a click if the old bearings were the problem. With a click, they usually are not. So check the spacer and the seating first. The full guide on the LiveLica blog has the noise table, the fixes and common questions. The link is in the description."
+  }
+ ]
+}
