@@ -1,0 +1,47 @@
+{
+ "tag": "SHORT TRACK BOOTS",
+ "article_html": "article.html",
+ "slides": [
+  {
+   "type": "cover",
+   "title": "Short track boots that actually fit",
+   "sub": "Sizing, moulding and the first three sessions"
+  },
+  {
+   "type": "point",
+   "title": "Measure at the end of the day",
+   "body": "Stand with your heel against a wall and mark your longest toe. Measure both feet, work from the larger one, and note the width across the ball."
+  },
+  {
+   "type": "point",
+   "title": "Snug is the right feeling",
+   "body": "Toes brush the front when standing and pull back in a skating position. A heel that lifts more than a couple of millimetres means the boot is too big."
+  },
+  {
+   "type": "point",
+   "title": "Between sizes? Take the smaller one",
+   "body": "A slightly snug boot settles after moulding. One that is slightly large will never get smaller. The same goes for growing juniors."
+  },
+  {
+   "type": "diagram",
+   "title": "Moulding fixes shape, not size",
+   "svg_index": 2,
+   "caption": "What a heat mould can change, and what only the right size fixes."
+  },
+  {
+   "type": "point",
+   "title": "Mould in a skating posture",
+   "body": "Wear your race socks, do not over tighten the laces, drive the knee forward and let the boot cool completely before it comes off."
+  },
+  {
+   "type": "point",
+   "title": "Read your first three sessions",
+   "body": "One sharp spot is a missed bony area. Heel lift on a hard push is a volume problem. Numbness means loosen the laces before you skate on."
+  },
+  {
+   "type": "cta",
+   "title": "The full guide to sizing, moulding and setup",
+   "body": "Link in bio"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "tag": "BEARING GUIDE",
+ "article_html": "article.html",
+ "slides": [
+  {
+   "type": "cover",
+   "title": "Ceramic or steel skate bearings?",
+   "sub": "Pick the right set for how you skate"
+  },
+  {
+   "type": "point",
+   "title": "Race seriously? Ceramic earns it",
+   "body": "Ceramic balls are lighter and harder than steel. They spin up faster, run cooler and hold their speed deeper into a long effort."
+  },
+  {
+   "type": "point",
+   "title": "Train most days? Buy good steel",
+   "body": "A precision steel set still rolls beautifully, costs less and leaves you budget for wheels."
+  },
+  {
+   "type": "diagram",
+   "title": "Most skate ceramic is hybrid",
+   "svg_index": 2,
+   "caption": "Hybrid bearings run ceramic balls in steel races, so oil and dry storage still matter."
+  },
+  {
+   "type": "point",
+   "title": "Ceramic still needs oil",
+   "body": "The races and cage still need lubrication. A dry ceramic bearing feels slower than a clean, oiled steel set."
+  },
+  {
+   "type": "point",
+   "title": "Beginners: steel first",
+   "body": "Until technique and fitness hold you back, good steel gives most of the feel. Move to ceramic when your kit becomes the limit."
+  },
+  {
+   "type": "quote",
+   "text": "Maintenance is the bigger lever."
+  },
+  {
+   "type": "cta",
+   "title": "Full guide with the speed numbers",
+   "body": "Link in bio"
+  }
+ ]
+}

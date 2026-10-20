@@ -1,0 +1,122 @@
+{
+  "title": "How to Sharpen Short Track Blades: A Complete Guide to Jigs, Stones and Edges",
+  "url": "https://www.livelica.com/blogs/short-track/how-to-sharpen-short-track-blades-a-complete-guide-to-jigs-stones-and-edges",
+  "thumbnail_text": "Why your blades wash out in corners",
+  "article_html": "article.html",
+  "scenes": [
+    {
+      "type": "title",
+      "heading": "How to Sharpen Short Track Blades",
+      "sub": "Jigs, stones, burrs and polish, step by step",
+      "chapter": "Why your edges matter",
+      "narration": "This is a step by step guide to sharpening your own short track blades. You will learn how to clamp the blade, which stone does which job, how to remove the burr, how to polish for glide, and how to check your work. You can have the best boot and the best legs in the pack. But if your blades will not hold through the apex of a corner, none of it matters. Sharpening is the one job every short track skater has to own. Nobody can feel your edges for you."
+    },
+    {
+      "type": "points",
+      "heading": "What sharpening actually does",
+      "chapter": "What sharpening does",
+      "bullets": [
+        "Not a knife point",
+        "Two square, parallel edges",
+        "A flat surface between them",
+        "Remove a little steel from the bottom"
+      ],
+      "narration": "A short track blade is not sharpened like a knife. You are not trying to make a point. You want two clean, square edges running the full length of the blade, with a flat surface between them. Those two edges bite the ice. As you lean, the blade rolls onto one edge or the other. How sharp that edge is decides how much sideways force you can apply before the steel lets go. When you sharpen, you take a small amount of steel off the flat bottom. You stop when the corners become crisp again. Everything else is about doing that evenly and squarely."
+    },
+    {
+      "type": "diagram",
+      "heading": "What you are aiming for",
+      "chapter": "Sharp, dull and burred edges",
+      "svg_index": 0,
+      "narration": "Here are three edges, seen end on. On the left is the goal. A flat bottom with two crisp corners. It holds under lean, and it reflects no light. In the middle is a dull edge. The corners have worn away to a curve. This is the blade that washes out mid corner. On the right is an edge that is sharp but carries a burr. That is a raised lip of steel left behind by the stone. It feels keen in the changing room, then folds over on the ice. The whole job is turning the middle and right shapes back into the left one, without removing more steel than you need to."
+    },
+    {
+      "type": "points",
+      "heading": "Why the jig matters more than the stone",
+      "chapter": "Why the jig matters most",
+      "bullets": [
+        "Edges dull off the ice, not on it",
+        "Grit, concrete, contact and rust",
+        "A twisted clamp grinds a taper",
+        "Tighten the knobs, use a stable table"
+      ],
+      "narration": "Edges rarely go dull from the ice itself. Ice is soft. What rounds your corners is walking without guards, blade on blade contact, grit, and above all tiny spots of rust. In a humid climate, a wet blade left in a bag can lose its edge sitting in a cupboard. New skaters worry about stone grit. Experienced skaters worry about how the blade is held. If the blade is clamped even slightly twisted, you grind a hidden taper into the steel. You feel it as a blade that grips at the front and washes out at the back. So use a proper jig, tighten its knobs firmly every time, and set it on a table that does not rock."
+    },
+    {
+      "type": "points",
+      "heading": "The stone that cuts the edge",
+      "chapter": "Coarse and fine stone",
+      "bullets": [
+        "Coarse side only for real damage",
+        "Fine side for most sessions",
+        "Long, even, unhurried passes",
+        "Same pressure end to end"
+      ],
+      "narration": "Once the blade is clamped straight, sharpening should be calm and repetitive. A combination stone has a coarse side and a fine side. Use the coarse side only when there is something real to remove. A nick, a rust pit, or a corner you can see has gone round. Every pass takes steel you never get back. Most sessions should live on the fine side. Lay the stone flat across the blade, keep it in full contact, and take long, even passes down the length. Watch your pressure. Most skaters press harder in the middle of a stroke. Over time that grinds a curve into a blade that should be flat. Let the stone cut. Do not force it."
+    },
+    {
+      "type": "points",
+      "heading": "Remove the burr, then polish",
+      "chapter": "Deburr and polish",
+      "bullets": [
+        "Diamond stone flat on each side",
+        "Light passes, minimal pressure",
+        "Polish blue, then green, then pink",
+        "Aim for a clean mirror finish"
+      ],
+      "narration": "Sharpening pushes a thin lip of steel over the far corner. That is the burr, and removing it is not optional. Hold a diamond deburr stone flat against the side of the blade. Run it along the full length in a few light passes, then do the other side. You are knocking off a lip, not grinding. Next comes polishing. Sharpening gives you grip. Polishing gives you glide, and most club skaters skip it. With a polishing triangle, work the blue film first. When the friction drops, after about a minute, switch to green. Then finish with pink. The whole polish takes three to five minutes. A clean mirror means you are done. Anything patchy, repeat the last stage."
+    },
+    {
+      "type": "diagram",
+      "heading": "Six steps, in order",
+      "chapter": "The six step order",
+      "svg_index": 1,
+      "narration": "Here is the full order in six steps. One. Clamp both blades straight, then tighten the four knobs firmly. Two. Use the coarse side of the stone, but only if there is real damage. Three. Move to the fine side, with long, even passes and constant pressure from end to end. Four. Take the diamond deburr stone down both sides with light passes. Five. Polish with the triangle, blue, then green, then pink. Six. Check the edge under a light. Step two is the one to skip most weeks. Steps four and five are the ones skaters skip, and should not."
+    },
+    {
+      "type": "points",
+      "heading": "How to check your work",
+      "chapter": "Checking the edge",
+      "bullets": [
+        "Fingernail across the edge, not along",
+        "It should catch front to back",
+        "Look straight down under a light",
+        "A sharp edge shows no bright line"
+      ],
+      "narration": "Forget the thumbnail test people use on kitchen knives. There are two better checks. First, run a fingernail gently across the edge, not along it. Feel whether it catches the same way from the front of the blade to the back. Second, hold the blade under a light and look straight down at the edge. A dull edge shows a bright line, because a rounded corner has surface to reflect from. A properly sharp edge is invisible. Any bright spot along the length is a flat you have not reached yet. To check for a leftover burr, run a fingertip lightly along the flat side near the edge. It should feel completely smooth."
+    },
+    {
+      "type": "diagram",
+      "heading": "Why the stone must be flat",
+      "chapter": "Flat versus dished stones",
+      "svg_index": 2,
+      "narration": "Almost nobody is taught this part. Your stone wears too. It wears fastest in the middle, because that is where most skaters press hardest. On the left is a flat stone. It touches the full width of the blade and leaves a flat bottom with two square corners. On the right is a dished stone, worn hollow in the middle. Only the worn centre touches the steel, so it rocks across the blade and rolls the corners. You can spend a careful hour producing exactly the rounded edge you were trying to remove. The stone has to be flat before the blade can be."
+    },
+    {
+      "type": "diagram",
+      "heading": "Is your stone still flat?",
+      "chapter": "Straight edge test and stone care",
+      "svg_index": 3,
+      "narration": "Checking for dishing takes ten seconds. Lay something straight along the face of the stone. A steel rule works, or the flat back of the polishing triangle. Hold the pair up to a lamp. If no light shows through, the face is flat, so carry on. If you see a sliver of light in the middle, the stone is dished. Flatten it before you touch a blade, or replace it if it is thin, cracked or deeply worn. Check along the length and across the width. Do this every second or third session, and always before a competition. Also wipe the stone before and after use, so steel dust does not clog it, and let it dry fully before it goes back in your bag."
+    },
+    {
+      "type": "points",
+      "heading": "How often to sharpen, and stopping rust",
+      "chapter": "How often, and rust",
+      "bullets": [
+        "Sharpen on feel, not the calendar",
+        "Never first time on race morning",
+        "Wipe blades dry off the ice",
+        "No wet soakers, no hard guards in storage"
+      ],
+      "narration": "There is no universal number for how often to sharpen. Go by the signs. Sharpen when the blade slides out at a lean it used to hold, when you skate a wider line through corners, when you see a bright line on the edge, or when you feel rust pits. Do not sharpen just because a week has passed. And never sharpen for the first time on race morning. Ride fresh edges for a session or two first. Rust costs skaters the most steel. Cold rink air meets warm, wet outside air, and blades collect condensation. Wipe them dry the moment you step off the ice. Let them reach room temperature before they go in a soaker. Never store them in wet soakers or hard guards."
+    },
+    {
+      "type": "end",
+      "heading": "Sharpening is a habit, not an event",
+      "sub": "Full guide at livelica.com, link in the description",
+      "chapter": "The one thing to remember",
+      "narration": "One last point on safety. A freshly sharpened blade is dangerous, and the risky moment is often when you unclamp it or reach across the bench. Wear cut resistant gloves for the whole process, including the tidying up. The skaters with the best edges are rarely the ones with the most expensive setup. They wipe their blades every time, check the edge under a light, keep the stone flat and clean, and sharpen when the blade tells them to. The full guide, with tool care tips and answers to common questions, is on the LiveLica blog. The link is in the description."
+    }
+  ]
+}

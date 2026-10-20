@@ -1,0 +1,10 @@
+{"tag": "SHORT TRACK GEAR", "article_html": "article.html", "slides": [
+ {"type":"cover","title":"Which short track blade should you buy?","sub":"Flex, length, steel and fit, explained"},
+ {"type":"point","title":"Flex decides how the blade feels","body":"A flexible blade moves with your push and forgives small technique errors. A stiffer blade returns energy directly and holds a firm line."},
+ {"type":"point","title":"Match length to your boot and style","body":"Shorter blades change direction quickly and feel lively. Longer blades track straighter and carry more speed on the straights."},
+ {"type":"point","title":"Harder steel holds an edge longer","body":"Bimetal runners, around 62 HRC, balance performance and value. Full PM steel, around 64 HRC, stays sharp longer between sharpenings."},
+ {"type":"point","title":"Check your mounting spacing first","body":"Short track boots use 165 mm spacing. Inline boots are often drilled at 195 mm. An adapter set bridges the gap using the existing holes, with no drilling."},
+ {"type":"diagram","title":"Spacing first, then cup height","svg_index":2,"caption":"Match the hole spacing, then pick a cup height: lower feels more stable, higher lets you lean deeper."},
+ {"type":"quote","text":"Flow or hold, that is the whole question."},
+ {"type":"cta","title":"The full guide to flex, steel, cups and fit","body":"Link in bio"}
+]}

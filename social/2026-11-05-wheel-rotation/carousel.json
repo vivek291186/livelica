@@ -1,0 +1,10 @@
+{"tag": "WHEEL CARE", "article_html": "article.html", "slides": [
+ {"type":"cover","title":"Why your wheels wear out too soon","sub":"Ten minutes a week keeps a set round and fast"},
+ {"type":"point","title":"Uneven wear is the real culprit","body":"You push out and lean into corners, so the inner edge grinds lower. A coned wheel has less contact with the ground and loses grip when you need it most."},
+ {"type":"diagram","title":"Move every wheel and flip it","svg_index":1,"caption":"Each wheel moves to a new position and turns over, so the whole set wears evenly."},
+ {"type":"point","title":"Rotate every one to three sessions","body":"Rotate more often on rough outdoor tarmac. After each session, run a fingertip across each wheel. If you feel a clear slope, move it and flip it."},
+ {"type":"point","title":"Three wheel and Hi Lo frames","body":"On three wheels, loop middle to front, front to rear, rear to middle. On a Hi Lo frame, keep the smaller wheel in place and just flip it."},
+ {"type":"point","title":"Check bearings while wheels are off","body":"Wipe grit off the shields, spin each bearing and listen for grinding. Add a drop of skate oil if any sound dry."},
+ {"type":"quote","text":"The exact pattern matters less than doing it consistently."},
+ {"type":"cta","title":"The full wheel care routine, step by step","body":"Link in bio"}
+]}

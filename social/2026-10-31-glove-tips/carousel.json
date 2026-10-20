@@ -1,0 +1,46 @@
+{
+ "tag": "SHORT TRACK GEAR",
+ "article_html": "article.html",
+ "slides": [
+  {
+   "type": "cover",
+   "title": "Is your glove costing you speed in corners?",
+   "sub": "Glove tips and cut resistant gloves, explained"
+  },
+  {
+   "type": "point",
+   "title": "Your hand is a sensor",
+   "body": "On a well ridden corner the inside hand is not support. It confirms your lean and gives you a fixed reference point."
+  },
+  {
+   "type": "point",
+   "title": "Bare fabric drags unpredictably",
+   "body": "Fabric gets wet, freezes and wears through, so the drag changes from lap one to the last. Tips give a hard, smooth, low friction surface."
+  },
+  {
+   "type": "point",
+   "title": "Let your wear pattern decide",
+   "body": "Fit tips only where your hand actually touches the ice. If only two fingers are scuffed, that is where your tips belong."
+  },
+  {
+   "type": "diagram",
+   "title": "Fit first, then read the wear",
+   "svg_index": 1,
+   "caption": "The fingers that touch the ice, four glove fit checks and the signs it is time to replace."
+  },
+  {
+   "type": "point",
+   "title": "Cut resistant does not mean cut proof",
+   "body": "The glove slows a blade and turns a bad cut into a far less serious one. Wear it and still skate aware of other people's feet."
+  },
+  {
+   "type": "quote",
+   "text": "Replace on condition, never on calendar."
+  },
+  {
+   "type": "cta",
+   "title": "Sizing, fitting, care and when to replace",
+   "body": "Link in bio"
+  }
+ ]
+}

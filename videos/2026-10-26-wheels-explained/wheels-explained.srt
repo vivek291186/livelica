@@ -1,0 +1,375 @@
+1
+00:00:00,000 --> 00:00:07,577
+By the end of this video, you will know how to choose the right wheel size and firmness for the skating you actually do.
+
+2
+00:00:07,577 --> 00:00:10,735
+You will also learn how to make a set last longer.
+
+3
+00:00:10,735 --> 00:00:13,766
+Bearings get most of the attention at any track.
+
+4
+00:00:13,766 --> 00:00:16,608
+Skaters compare ceramics and argue about oil.
+
+5
+00:00:16,608 --> 00:00:21,155
+But your wheels are the only part of your setup that touches the ground.
+
+6
+00:00:21,155 --> 00:00:24,375
+They are what turn your effort into forward motion.
+
+7
+00:00:24,375 --> 00:00:28,354
+Yet most skaters pick them because they were the ones in stock.
+
+8
+00:00:28,354 --> 00:00:29,301
+Let's fix that.
+
+9
+00:00:30,001 --> 00:00:34,748
+Wheels are the single biggest performance variable on an inline speed skate.
+
+10
+00:00:34,748 --> 00:00:37,684
+They decide how much grip you have in a corner.
+
+11
+00:00:37,684 --> 00:00:41,806
+They decide how much rolling resistance you fight on the straight.
+
+12
+00:00:41,806 --> 00:00:44,930
+They change how the skate feels over rough tarmac.
+
+13
+00:00:44,930 --> 00:00:49,302
+And they decide how many kilometres you get before you need a new set.
+
+14
+00:00:49,302 --> 00:00:53,612
+Get the wheels right, and everything else in your setup works better.
+
+15
+00:00:53,612 --> 00:00:57,422
+Get them wrong, and even the best bearings will not save you.
+
+16
+00:00:57,422 --> 00:01:00,795
+So let's start with the first decision, which is size.
+
+17
+00:01:01,496 --> 00:01:07,077
+Here is a 90 millimetre wheel on the left and a 110 millimetre wheel on the right.
+
+18
+00:01:07,077 --> 00:01:08,711
+Both meet the same bump.
+
+19
+00:01:08,711 --> 00:01:14,973
+The bigger wheel meets it at a shallower angle, so it rolls over rough surfaces more easily.
+
+20
+00:01:14,973 --> 00:01:18,717
+A larger wheel also covers more ground with every turn.
+
+21
+00:01:18,717 --> 00:01:26,409
+On a smooth track or a good road, a 110 carries speed well and holds it with less effort once you are up to pace.
+
+22
+00:01:26,409 --> 00:01:28,314
+But look at the axle height.
+
+23
+00:01:28,314 --> 00:01:31,309
+The bigger wheel sits higher off the ground.
+
+24
+00:01:31,309 --> 00:01:37,368
+That raises your centre of gravity, and the skate feels less planted and less responsive.
+
+25
+00:01:38,068 --> 00:01:39,963
+Big wheels have real costs.
+
+26
+00:01:39,963 --> 00:01:43,826
+They are heavier, so they take more work to accelerate.
+
+27
+00:01:43,826 --> 00:01:47,266
+They take more work to swing through each stride.
+
+28
+00:01:47,266 --> 00:01:50,145
+And they need a frame built to take them.
+
+29
+00:01:50,145 --> 00:01:55,342
+Smaller wheels, at 90 or 100 millimetres, accelerate faster and sit lower.
+
+30
+00:01:55,342 --> 00:01:59,204
+They give you a more connected, more controllable feel.
+
+31
+00:01:59,204 --> 00:02:05,734
+On a tight indoor track, with constant corners and constant acceleration, that matters a lot.
+
+32
+00:02:05,734 --> 00:02:10,158
+Many skaters chase 110 because the top marathon skaters use it.
+
+33
+00:02:10,158 --> 00:02:15,144
+Then they end up slower on a technical track than they would be on 100.
+
+34
+00:02:15,844 --> 00:02:20,708
+So ask what you actually skate, not what you hope to skate one day.
+
+35
+00:02:20,708 --> 00:02:25,137
+Long, smooth, open roads and marathon distances point to 110.
+
+36
+00:02:25,137 --> 00:02:33,196
+Tight indoor tracks, technical banked circuits and lots of hard acceleration out of corners point to 100 or 90.
+
+37
+00:02:33,196 --> 00:02:40,239
+Rough road surfaces tend to reward the larger wheel, simply because it survives the bumps better.
+
+38
+00:02:40,239 --> 00:02:42,489
+And one rule is not negotiable.
+
+39
+00:02:42,489 --> 00:02:44,740
+Your frame decides the ceiling.
+
+40
+00:02:44,740 --> 00:02:50,330
+Check the maximum wheel size your frame is rated for before you buy anything.
+
+41
+00:02:50,330 --> 00:02:53,017
+This catches people out all the time.
+
+42
+00:02:53,717 --> 00:02:57,050
+The second decision is firmness, called durometer.
+
+43
+00:02:57,050 --> 00:03:00,583
+It measures how hard the urethane is, on the A scale.
+
+44
+00:03:00,583 --> 00:03:05,382
+It controls the oldest trade off in skating, which is grip against roll.
+
+45
+00:03:05,382 --> 00:03:08,982
+A softer wheel deforms more where it meets the ground.
+
+46
+00:03:08,982 --> 00:03:11,115
+That deformation gives you grip.
+
+47
+00:03:11,115 --> 00:03:13,048
+It also loses energy as heat.
+
+48
+00:03:13,048 --> 00:03:14,914
+A firmer wheel deforms less.
+
+49
+00:03:14,914 --> 00:03:18,047
+It rolls with less resistance and lasts longer.
+
+50
+00:03:18,047 --> 00:03:22,514
+But it gives you less grip and sends more vibration into your feet.
+
+51
+00:03:22,514 --> 00:03:24,780
+There is no single correct answer.
+
+52
+00:03:24,780 --> 00:03:29,980
+There is only the right answer for your surface, your weight and your skating.
+
+53
+00:03:30,680 --> 00:03:34,234
+Most race wheels come in two firmness options.
+
+54
+00:03:34,234 --> 00:03:40,029
+In the JUNK range, XFirm is rated 84 to 86A, and XXFirm is rated 86 to 88A.
+
+55
+00:03:40,029 --> 00:03:44,898
+This scale runs from softer on the left to harder on the right.
+
+56
+00:03:44,898 --> 00:03:48,143
+You can see the two ranges overlap at 86A.
+
+57
+00:03:48,143 --> 00:03:53,320
+That is why skaters describe the difference as a shade, not a step.
+
+58
+00:03:53,320 --> 00:03:55,329
+XFirm holds a little more.
+
+59
+00:03:55,329 --> 00:03:57,647
+XXFirm rolls a little further.
+
+60
+00:03:57,647 --> 00:04:00,275
+And notice the line at the bottom.
+
+61
+00:04:00,275 --> 00:04:01,975
+Heat softens urethane.
+
+62
+00:04:01,975 --> 00:04:07,615
+So a hot afternoon shifts every wheel towards the soft end of this scale.
+
+63
+00:04:08,316 --> 00:04:10,832
+Choose XFirm when you want more grip.
+
+64
+00:04:10,832 --> 00:04:14,368
+That means slick or dusty surfaces, or a cool track.
+
+65
+00:04:14,368 --> 00:04:22,189
+It also suits lighter skaters, and anyone still developing their corner technique who wants the wheel to help them.
+
+66
+00:04:22,189 --> 00:04:27,086
+Choose XXFirm when the surface already has good grip, or when it is hot.
+
+67
+00:04:27,086 --> 00:04:32,187
+It suits heavier or more powerful skaters who can overwhelm a softer wheel.
+
+68
+00:04:32,187 --> 00:04:37,695
+Temperature matters more than most people admit, especially in Indian conditions.
+
+69
+00:04:37,695 --> 00:04:44,768
+A wheel that feels perfect on an early winter morning can feel greasy and vague on hot afternoon tarmac.
+
+70
+00:04:44,768 --> 00:04:48,305
+Skaters who race across seasons often keep two sets.
+
+71
+00:04:49,005 --> 00:04:50,111
+Now the brands.
+
+72
+00:04:50,111 --> 00:04:54,682
+Both JUNK and MPC make wheels that world class skaters win on.
+
+73
+00:04:54,682 --> 00:04:57,632
+One is not simply faster than the other.
+
+74
+00:04:57,632 --> 00:05:07,291
+The JUNK Voodoo leaves out pigment entirely, so the urethane is exactly what the chemist intended, and it comes in 90, 100 and 110.
+
+75
+00:05:07,291 --> 00:05:16,950
+The MPC Black Magic uses a softer inner ring inside a harder outer layer, so it flexes for grip while the outer body keeps rolling.
+
+76
+00:05:16,950 --> 00:05:20,636
+The real difference is feel, and feel is personal.
+
+77
+00:05:20,636 --> 00:05:23,807
+If you can try a friend's set first, do it.
+
+78
+00:05:23,807 --> 00:05:31,106
+Remember that sets come as eight wheels without bearings, so plan for sixteen bearings and spacers.
+
+79
+00:05:31,806 --> 00:05:33,483
+Wheels never wear evenly.
+
+80
+00:05:33,483 --> 00:05:38,247
+Your inside edges take more punishment, because that is where you push.
+
+81
+00:05:38,247 --> 00:05:43,010
+Left alone, a wheel cones, with a sharp inside edge and a flat outside.
+
+82
+00:05:43,010 --> 00:05:48,244
+That gives you unpredictable grip in corners and wastes urethane you paid for.
+
+83
+00:05:48,244 --> 00:05:53,410
+So swap each wheel to a new position and flip it, so the worn side faces out.
+
+84
+00:05:53,410 --> 00:05:57,100
+The exact pattern matters less than doing it regularly.
+
+85
+00:05:57,100 --> 00:06:01,930
+Every couple of weeks is a good start if you train several times a week.
+
+86
+00:06:01,930 --> 00:06:06,291
+If you can feel a sharp lip with your thumb, you waited too long.
+
+87
+00:06:06,291 --> 00:06:11,592
+While the wheels are off, check for chunking, cracked hubs and gritty bearings.
+
+88
+00:06:12,292 --> 00:06:19,866
+To make a set last, keep it clean, store it somewhere cool and out of the sun, and match the compound to your surface.
+
+89
+00:06:19,866 --> 00:06:21,535
+Here is the short version.
+
+90
+00:06:21,535 --> 00:06:25,578
+Pick your size for the surface and the skating you actually do.
+
+91
+00:06:25,578 --> 00:06:30,007
+Pick your firmness for your surface, your weight and the temperature.
+
+92
+00:06:30,007 --> 00:06:34,757
+Rotate on a schedule, and keep your bearings clean while you are in there.
+
+93
+00:06:34,757 --> 00:06:39,892
+The full wheel guide, with answers to common questions, is on the LiveLica blog.
+
+94
+00:06:39,892 --> 00:06:41,882
+The link is in the description.
