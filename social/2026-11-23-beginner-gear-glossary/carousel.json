@@ -1,0 +1,46 @@
+{
+ "tag": "INLINE BEGINNERS",
+ "article_html": "article.html",
+ "slides": [
+  {
+   "type": "cover",
+   "title": "New to speed skating and lost in jargon?",
+   "sub": "The words that matter and what to buy first"
+  },
+  {
+   "type": "point",
+   "title": "Your platform is boot plus frame",
+   "body": "The boot holds your foot and ankle. The frame is the stiff beam that keeps your wheels in a straight line, so your push goes into the road."
+  },
+  {
+   "type": "point",
+   "title": "Start on 90mm to 100mm wheels",
+   "body": "Bigger wheels roll faster and carry speed. Smaller wheels feel more stable and quicker to get moving, which suits most beginners."
+  },
+  {
+   "type": "point",
+   "title": "Durometer is wheel hardness",
+   "body": "A higher number means a harder wheel. XFirm is softer with more grip. XXFirm is harder and rolls faster on smooth surfaces."
+  },
+  {
+   "type": "point",
+   "title": "Match the bore before you buy",
+   "body": "Inline speed bearings are 608s with an 8mm bore. Many quad skates use a 627 with a 7mm bore that does not fit an inline axle."
+  },
+  {
+   "type": "diagram",
+   "title": "Where the spacer sits",
+   "svg_index": 0,
+   "caption": "The spacer between the bearings lets you tighten the axle without pinching them."
+  },
+  {
+   "type": "quote",
+   "text": "Neglect is what kills bearings, not age."
+  },
+  {
+   "type": "cta",
+   "title": "The full glossary and first setup order",
+   "body": "Link in bio"
+  }
+ ]
+}

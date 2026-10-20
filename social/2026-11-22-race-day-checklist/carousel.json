@@ -1,0 +1,46 @@
+{
+ "tag": "SHORT TRACK RACING",
+ "article_html": "article.html",
+ "slides": [
+  {
+   "type": "cover",
+   "title": "Short track races are won off the ice",
+   "sub": "A calm routine for race week and race day"
+  },
+  {
+   "type": "point",
+   "title": "Race week: change nothing new",
+   "body": "Sharpen and deburr early in race week, then skate at least one session on the fresh edge. If your bend, rocker and pitch feel right, leave them alone."
+  },
+  {
+   "type": "point",
+   "title": "Recheck every cup bolt",
+   "body": "Cups can loosen slowly under side load and vibration. Snug every bolt to your usual feel and make sure adapters and spacers sit square."
+  },
+  {
+   "type": "diagram",
+   "title": "Three windows, three job lists",
+   "svg_index": 0,
+   "caption": "Race week, the night before and the hour before each have their own checks."
+  },
+  {
+   "type": "point",
+   "title": "Pack from a written list",
+   "body": "Boots and guards where you can reach them, safety kit on top, tools and spares at the bottom. Keep a tool roll with spare bolts, laces, glove tips and a deburr stone."
+  },
+  {
+   "type": "point",
+   "title": "Protect your edges between heats",
+   "body": "Wipe the blades dry before every heat, slide soakers back on the moment you step off, and never walk on bare blades on matting or concrete."
+  },
+  {
+   "type": "quote",
+   "text": "Change nothing that your body has to relearn."
+  },
+  {
+   "type": "cta",
+   "title": "Get the full race day checklist",
+   "body": "Link in bio"
+  }
+ ]
+}

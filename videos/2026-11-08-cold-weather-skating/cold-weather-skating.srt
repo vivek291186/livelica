@@ -1,0 +1,411 @@
+1
+00:00:00,000 --> 00:00:05,847
+Your skates feel slower and looser on a cold morning, and there is a simple reason for it.
+
+2
+00:00:05,847 --> 00:00:14,033
+In the next few minutes you will learn what cold does to your wheels, your bearings and your body, and exactly what to change.
+
+3
+00:00:14,033 --> 00:00:15,853
+Three things happen at once.
+
+4
+00:00:15,853 --> 00:00:18,321
+Cold urethane stiffens and grips less.
+
+5
+00:00:18,321 --> 00:00:22,350
+Cold bearing oil thickens and drags for the first few minutes.
+
+6
+00:00:22,350 --> 00:00:28,587
+And a cold road often carries a thin film of dew that you cannot see until a wheel slides on it.
+
+7
+00:00:28,587 --> 00:00:31,121
+None of that is a fault in your skates.
+
+8
+00:00:31,121 --> 00:00:33,525
+It is physics, and you can manage it.
+
+9
+00:00:34,225 --> 00:00:35,676
+Start with the wheels.
+
+10
+00:00:35,676 --> 00:00:38,117
+Urethane is sensitive to temperature.
+
+11
+00:00:38,117 --> 00:00:42,404
+Warm it, and it softens, flexes more under load and grips harder.
+
+12
+00:00:42,404 --> 00:00:48,407
+On the left, the warm wheel squashes into a wider contact patch, so it holds the road well.
+
+13
+00:00:48,407 --> 00:00:50,716
+Cool it, and the compound stiffens.
+
+14
+00:00:50,716 --> 00:00:57,906
+On the right, the cold wheel flexes less, its contact patch shrinks, and it holds the surface with less bite.
+
+15
+00:00:57,906 --> 00:01:03,051
+So a cold wheel behaves like a harder wheel than the grade printed on the box.
+
+16
+00:01:03,051 --> 00:01:07,603
+That is why skaters wash out on the first corner of a winter session.
+
+17
+00:01:07,603 --> 00:01:10,637
+Your technique did not go backwards overnight.
+
+18
+00:01:10,637 --> 00:01:16,046
+The wheel is simply harder than the one you set your lean for yesterday afternoon.
+
+19
+00:01:16,746 --> 00:01:19,273
+Timing matters a lot on a cold morning.
+
+20
+00:01:19,273 --> 00:01:28,346
+A wheel reaches its working temperature partly from the road surface and partly from the heat it makes as it flexes and recovers under load.
+
+21
+00:01:28,346 --> 00:01:31,715
+At six in the morning, none of that heat exists yet.
+
+22
+00:01:31,715 --> 00:01:35,992
+So your first laps are the least grippy laps of the whole session.
+
+23
+00:01:35,992 --> 00:01:41,436
+They are also the laps when your muscles are coldest and your reactions are slowest.
+
+24
+00:01:41,436 --> 00:01:47,527
+Put those two things together, and you have the moment when most early morning crashes happen.
+
+25
+00:01:47,527 --> 00:01:51,350
+Treat those first laps as information, not as a time trial.
+
+26
+00:01:52,050 --> 00:01:54,820
+Bearing oil also changes with temperature.
+
+27
+00:01:54,820 --> 00:02:00,358
+Cold oil is thicker, and thicker oil takes more energy as the balls roll through it.
+
+28
+00:02:00,358 --> 00:02:02,534
+This timeline shows what happens.
+
+29
+00:02:02,534 --> 00:02:07,545
+At minute zero, the oil is thick, the roll is short and the wheels are hard.
+
+30
+00:02:07,545 --> 00:02:11,436
+As you skate, the oil warms and thins, and grip comes back.
+
+31
+00:02:11,436 --> 00:02:15,326
+By around minute fifteen, roll and grip are back to normal.
+
+32
+00:02:15,326 --> 00:02:18,755
+So do not judge a set of bearings on a cold morning.
+
+33
+00:02:18,755 --> 00:02:28,315
+If you want to check whether a bearing is worn, do it indoors at room temperature, and listen for grit and roughness rather than timing the spin.
+
+34
+00:02:28,315 --> 00:02:34,052
+And if your bearings still feel slow after the first ten minutes, that is not the cold.
+
+35
+00:02:34,052 --> 00:02:35,898
+That is grit, water or wear.
+
+36
+00:02:36,598 --> 00:02:40,751
+Do not try to fix cold drag by flooding the bearing with oil.
+
+37
+00:02:40,751 --> 00:02:42,657
+Heavy oils protect but drag.
+
+38
+00:02:42,657 --> 00:02:47,559
+Very thin oils feel fast for ten minutes and then leave the bearing dry.
+
+39
+00:02:47,559 --> 00:02:51,985
+A purpose made skate bearing oil sits between those two extremes.
+
+40
+00:02:51,985 --> 00:02:55,729
+One drop per bearing is the whole dose, all year round.
+
+41
+00:02:55,729 --> 00:02:59,406
+More than that collects dust and adds drag of its own.
+
+42
+00:02:59,406 --> 00:03:08,256
+If your bearings really are slow once everything is warm, the fix is to clean them, dry them fully and put one fresh drop in each.
+
+43
+00:03:08,256 --> 00:03:12,001
+The routine is the same for steel and ceramic bearings.
+
+44
+00:03:12,701 --> 00:03:17,613
+In most of India, the bigger cold weather hazard is not the temperature.
+
+45
+00:03:17,613 --> 00:03:18,910
+It is the moisture.
+
+46
+00:03:18,910 --> 00:03:23,754
+On a clear winter night, the road loses heat and water condenses on it.
+
+47
+00:03:23,754 --> 00:03:30,168
+By first light, smooth tarmac can carry an invisible film of dew that behaves like light rain.
+
+48
+00:03:30,168 --> 00:03:35,626
+Painted lines, tiled sections, metal covers and polished concrete are the worst.
+
+49
+00:03:35,626 --> 00:03:39,515
+They stay damp long after the rest of the road looks dry.
+
+50
+00:03:39,515 --> 00:03:40,743
+Shade is the trap.
+
+51
+00:03:40,743 --> 00:03:46,679
+A road that is dry in the sun can be wet under a flyover, beside a wall or under trees.
+
+52
+00:03:46,679 --> 00:03:50,841
+So scout your first lap slowly and note where the shade sits.
+
+53
+00:03:50,841 --> 00:04:00,325
+And if the fog is so thick that you cannot see a vehicle at a comfortable stopping distance, take the session to a closed track or the gym.
+
+54
+00:04:01,025 --> 00:04:07,015
+When grip is scarce, skate the grippiest compound you own, not the fastest rolling one.
+
+55
+00:04:07,015 --> 00:04:09,907
+Race wheels come in named firmness grades.
+
+56
+00:04:09,907 --> 00:04:15,278
+For most skaters, the winter choice is between an XFirm set and an XXFirm set.
+
+57
+00:04:15,278 --> 00:04:17,550
+XFirm is the grippier of the two.
+
+58
+00:04:17,550 --> 00:04:21,682
+XXFirm is harder and tuned for roll and straight line speed.
+
+59
+00:04:21,682 --> 00:04:23,954
+If you own both, skate the XFirm.
+
+60
+00:04:23,954 --> 00:04:29,462
+If you have a softer Firm set from the wet season, that is the one to reach for.
+
+61
+00:04:29,462 --> 00:04:33,663
+Do not raid your old, worn training set hoping for more grip.
+
+62
+00:04:33,663 --> 00:04:37,174
+Worn, coned wheels give you less contact, not more.
+
+63
+00:04:37,174 --> 00:04:39,240
+And be honest about the limit.
+
+64
+00:04:39,240 --> 00:04:42,889
+A grippier wheel does not make a dewy underpass safe.
+
+65
+00:04:42,889 --> 00:04:47,985
+On those mornings, the answer is a slower first lap and a shorter session.
+
+66
+00:04:48,685 --> 00:04:51,215
+Your body is stiffer in the cold too.
+
+67
+00:04:51,215 --> 00:04:58,326
+The push in inline speed skating loads the groin, hip flexors and lower back through a long, deep range.
+
+68
+00:04:58,326 --> 00:05:03,932
+A stiff body asked for full power in the first five minutes is how strains happen.
+
+69
+00:05:03,932 --> 00:05:07,214
+So keep the same warm up, but roughly double it.
+
+70
+00:05:07,214 --> 00:05:13,915
+Stage one is off the skates: easy movement, mobility and activation, for twelve to twenty minutes.
+
+71
+00:05:13,915 --> 00:05:18,838
+Stage two is ten minutes of easy rolling with short strokes and no lean.
+
+72
+00:05:18,838 --> 00:05:22,736
+Stage three builds a deeper position and tests your grip.
+
+73
+00:05:22,736 --> 00:05:25,812
+Only then comes stage four, the hard efforts.
+
+74
+00:05:25,812 --> 00:05:29,231
+Cold aches that ease once you are warm are normal.
+
+75
+00:05:29,231 --> 00:05:39,487
+But sharp pain, swelling, numbness, a joint that gives way, or pain that lasts more than a few days is worth seeing a physiotherapist or doctor about.
+
+76
+00:05:40,187 --> 00:05:43,185
+A race suit is built for air, not for warmth.
+
+77
+00:05:43,185 --> 00:05:47,381
+A close, aerodynamic cut is exactly what you want at race pace.
+
+78
+00:05:47,381 --> 00:05:51,643
+It is not what you want on a cold start line for twenty minutes.
+
+79
+00:05:51,643 --> 00:05:59,303
+So warm up in a tracksuit or a thermal layer over your suit, and strip down shortly before the effort that matters.
+
+80
+00:05:59,303 --> 00:06:08,960
+Cover your hands and your ears, because your fingers lose dexterity quickly in the cold, and you want a full grip if you have to put a hand down.
+
+81
+00:06:08,960 --> 00:06:12,491
+After the session, do not leave a damp suit in a bag.
+
+82
+00:06:12,491 --> 00:06:15,687
+Wash it gently and dry it away from direct heat.
+
+83
+00:06:16,387 --> 00:06:19,145
+Here is the part that catches people out.
+
+84
+00:06:19,145 --> 00:06:25,735
+Cold metal brought into a warm, humid room collects condensation, just like a cold glass of water.
+
+85
+00:06:25,735 --> 00:06:29,837
+That moisture lands on your bearing shields, axles and frame.
+
+86
+00:06:29,837 --> 00:06:34,544
+If your skates go straight into a zipped bag, it sits there for hours.
+
+87
+00:06:34,544 --> 00:06:37,166
+So treat a cold morning like a wet one.
+
+88
+00:06:37,166 --> 00:06:45,169
+Wipe the wheels and the outside of the bearings, loosen the boots, and leave the skates where air can move around them.
+
+89
+00:06:45,169 --> 00:06:49,136
+A shaded balcony or a shelf under a ceiling fan works well.
+
+90
+00:06:49,136 --> 00:06:54,180
+Once everything is at room temperature, spin each wheel by hand and listen.
+
+91
+00:06:54,180 --> 00:06:58,349
+A short or gritty roll means it is time to clean, dry and oil.
+
+92
+00:06:59,049 --> 00:07:00,608
+Here is your checklist.
+
+93
+00:07:00,608 --> 00:07:08,672
+Check the forecast for fog, not just the temperature, because visibility decides whether a road session happens at all.
+
+94
+00:07:08,672 --> 00:07:14,636
+Scout the first lap slowly, and note where the shade, paint, tiles and metal covers sit.
+
+95
+00:07:14,636 --> 00:07:20,938
+Skate the grippiest compound you own, and keep your newest, roundest set for cold, damp days.
+
+96
+00:07:20,938 --> 00:07:28,325
+Double your usual warm up, start it off the skates, and give the first ten minutes on wheels to easy rolling.
+
+97
+00:07:28,325 --> 00:07:30,629
+Warm up in a layer over your suit.
+
+98
+00:07:30,629 --> 00:07:36,661
+And afterwards, wipe down and air dry your skates, because condensation does the rusting.
+
+99
+00:07:37,361 --> 00:07:39,960
+If you remember one thing, make it this.
+
+100
+00:07:39,960 --> 00:07:45,288
+On a cold morning, your wheels, your oil and your body all start the session cold.
+
+101
+00:07:45,288 --> 00:07:50,615
+Give all three time to warm up, and save your hardest efforts for the second half.
+
+102
+00:07:50,615 --> 00:07:56,983
+The full guide, with the wheel grades and the whole cold weather routine, is on the LiveLica blog.
+
+103
+00:07:56,983 --> 00:07:58,997
+The link is in the description.

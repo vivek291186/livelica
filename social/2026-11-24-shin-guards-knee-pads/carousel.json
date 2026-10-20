@@ -1,0 +1,47 @@
+{
+ "tag": "SHORT TRACK GEAR",
+ "article_html": "article.html",
+ "slides": [
+  {
+   "type": "cover",
+   "title": "Is there a gap in your leg protection?",
+   "sub": "Shin guards, knee pads and a 15 second check"
+  },
+  {
+   "type": "point",
+   "title": "Protection has two jobs",
+   "body": "It has to resist a slicing edge and spread a blunt impact. Cut resistant fabric does the first. A hard shell or dense foam pad does the second."
+  },
+  {
+   "type": "point",
+   "title": "Football shin guards work for training",
+   "body": "Wear them over a cut resistant layer, never instead of one. Check your federation's rules before you race in them too."
+  },
+  {
+   "type": "diagram",
+   "title": "The coverage chain and its two weak points",
+   "svg_index": 0,
+   "caption": "Knee pad, shin guard and boot should overlap, with the two common gaps marked in orange."
+  },
+  {
+   "type": "point",
+   "title": "Fit knee pads with the knee bent",
+   "body": "Bend to your cornering angle, centre the pad on the cap, then stand up. If it moves more than a little, the strap is too loose or the pad too big."
+  },
+  {
+   "type": "point",
+   "title": "Check for gaps before you step on",
+   "body": "In your lowest skating position, check the boot line, sock top, guard to knee and kneecap. The gap is almost always at the boot line."
+  },
+  {
+   "type": "point",
+   "title": "When a knock needs more than ice",
+   "body": "See a doctor or physiotherapist for sharp pain, clear swelling, numbness or if you cannot bear weight. A deep blade cut needs attention the same day."
+  },
+  {
+   "type": "cta",
+   "title": "Full guide: fitting, layering and the gap check",
+   "body": "Link in bio"
+  }
+ ]
+}

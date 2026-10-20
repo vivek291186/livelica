@@ -1,0 +1,383 @@
+1
+00:00:00,000 --> 00:00:05,632
+By the end of this video, you will know what every common speed skating gear word means.
+
+2
+00:00:05,632 --> 00:00:09,344
+You will also know the order to build your first setup in.
+
+3
+00:00:09,344 --> 00:00:12,800
+Frame, durometer, bore, ABEC, spacer, Hi Lo, triskate.
+
+4
+00:00:12,800 --> 00:00:16,832
+When you are new, these words fly past faster than the skaters.
+
+5
+00:00:16,832 --> 00:00:21,312
+It can feel like everyone else got a glossary that you never received.
+
+6
+00:00:21,312 --> 00:00:23,425
+So here it is, in plain language.
+
+7
+00:00:23,425 --> 00:00:30,977
+Once the words make sense, you can read a product page, follow your coach, and make clear choices instead of guessing.
+
+8
+00:00:31,677 --> 00:00:34,092
+Everything starts with your platform.
+
+9
+00:00:34,092 --> 00:00:38,335
+That is the boot on your foot and the frame bolted underneath it.
+
+10
+00:00:38,335 --> 00:00:40,619
+The boot holds your foot and ankle.
+
+11
+00:00:40,619 --> 00:00:46,298
+The frame is the stiff beam that carries your wheels in a straight line under the boot.
+
+12
+00:00:46,298 --> 00:00:49,627
+On a speed skate, the frame is long, low and rigid.
+
+13
+00:00:49,627 --> 00:00:50,280
+Why rigid?
+
+14
+00:00:50,280 --> 00:00:56,090
+Because any flex in the frame is energy you push into the frame instead of into the road.
+
+15
+00:00:56,090 --> 00:01:02,813
+A good frame keeps your wheels perfectly in line, so the skate rolls true and does not scrub off speed.
+
+16
+00:01:03,513 --> 00:01:05,938
+Speed frames come in two families.
+
+17
+00:01:05,938 --> 00:01:11,359
+A four wheel frame carries four smaller wheels, often 90 or 100 millimetres.
+
+18
+00:01:11,359 --> 00:01:19,633
+It sits lower with a longer contact patch, and many skaters find it stable and forgiving while they build technique.
+
+19
+00:01:19,633 --> 00:01:27,123
+A three wheel frame, also called a triskate, carries three larger wheels, such as 110 or 125 millimetres.
+
+20
+00:01:27,123 --> 00:01:32,686
+It sits taller, rolls faster once you are moving, and is lighter for its size.
+
+21
+00:01:32,686 --> 00:01:33,756
+Two more words.
+
+22
+00:01:33,756 --> 00:01:39,035
+Platform length is the distance between the front and rear mounting bolts.
+
+23
+00:01:39,035 --> 00:01:42,815
+Longer tracks straighter, shorter turns more eagerly.
+
+24
+00:01:42,815 --> 00:01:51,802
+Hi Lo means the front wheels are smaller than the rear ones, which lowers your toe and helps you sit forward into your stroke.
+
+25
+00:01:51,802 --> 00:01:55,083
+You do not need to fine tune these on day one.
+
+26
+00:01:55,783 --> 00:01:58,106
+Here is the wheel size ladder.
+
+27
+00:01:58,106 --> 00:02:01,745
+On the left, 90 millimetres, nimble and stable.
+
+28
+00:02:01,745 --> 00:02:04,996
+Next, 100 millimetres, the all round pick.
+
+29
+00:02:04,996 --> 00:02:09,100
+Then 110 millimetres, fast and popular for marathons.
+
+30
+00:02:09,100 --> 00:02:13,745
+And on the right, 125 millimetres, built for top speed roll.
+
+31
+00:02:13,745 --> 00:02:15,216
+The rule is simple.
+
+32
+00:02:15,216 --> 00:02:18,467
+Bigger wheels roll faster and carry speed.
+
+33
+00:02:18,467 --> 00:02:23,113
+Smaller wheels feel more stable and get moving more quickly.
+
+34
+00:02:23,113 --> 00:02:28,145
+Most beginners are well served in the 90 to 100 millimetre range.
+
+35
+00:02:28,845 --> 00:02:31,472
+The second wheel number is durometer.
+
+36
+00:02:31,472 --> 00:02:38,148
+It tells you how hard or soft the wheel is, written as a number and the letter A, such as 85A.
+
+37
+00:02:38,148 --> 00:02:40,775
+A higher number means a harder wheel.
+
+38
+00:02:40,775 --> 00:02:45,462
+Harder wheels roll faster on smooth, hot surfaces and last longer.
+
+39
+00:02:45,462 --> 00:02:51,143
+Softer wheels grip more and soak up rough ground, at the cost of a little speed.
+
+40
+00:02:51,143 --> 00:02:53,771
+Many race wheels use a label instead.
+
+41
+00:02:53,771 --> 00:03:02,221
+XFirm is the softer one, with more grip, which helps on a slick or dusty track, or while you learn to trust your edges.
+
+42
+00:03:02,221 --> 00:03:06,198
+XXFirm is harder and rolls faster on smooth, hot tarmac.
+
+43
+00:03:06,198 --> 00:03:11,169
+Pick for your surface and your confidence, not just the fastest label.
+
+44
+00:03:11,869 --> 00:03:17,567
+Bearings are the small steel or ceramic rings that let each wheel spin freely on its axle.
+
+45
+00:03:17,567 --> 00:03:18,959
+Every wheel needs two.
+
+46
+00:03:18,959 --> 00:03:25,227
+So a pair of four wheel skates runs sixteen bearings, and a pair of three wheel skates runs twelve.
+
+47
+00:03:25,227 --> 00:03:31,431
+Bearings are usually sold in sets of sixteen for this reason, so check the count before you order.
+
+48
+00:03:31,431 --> 00:03:35,736
+They are the cheapest way to feel a real difference in your skating.
+
+49
+00:03:35,736 --> 00:03:41,877
+They are also the easiest part to ruin through neglect, so they are worth understanding properly.
+
+50
+00:03:42,577 --> 00:03:49,036
+Bore is the size of the hole in the middle of the bearing, where the axle passes through.
+
+51
+00:03:49,036 --> 00:03:54,406
+On the left is a 608, the inline speed bearing, with an 8 millimetre bore.
+
+52
+00:03:54,406 --> 00:03:59,777
+On the right is a 627, used on many quad skates, with a 7 millimetre bore.
+
+53
+00:03:59,777 --> 00:04:02,970
+It will not fit an 8 millimetre inline axle.
+
+54
+00:04:02,970 --> 00:04:07,542
+The two look almost identical in a photo, but they do not swap.
+
+55
+00:04:07,542 --> 00:04:11,606
+This is the most common ordering mistake beginners make.
+
+56
+00:04:11,606 --> 00:04:15,453
+So always match the bore to your axle before you buy.
+
+57
+00:04:16,153 --> 00:04:21,838
+ABEC is a manufacturing tolerance rating, with odd numbers like 1, 3, 5, 7 and 9.
+
+58
+00:04:21,838 --> 00:04:24,645
+A higher number means tighter machining.
+
+59
+00:04:24,645 --> 00:04:31,523
+But it does not measure speed by itself, and for skating it is only one small part of the picture.
+
+60
+00:04:31,523 --> 00:04:38,892
+The quality of the balls, races and cage matters far more, and so does how clean and oiled you keep them.
+
+61
+00:04:38,892 --> 00:04:42,401
+Steel balls are proven, tough and excellent value.
+
+62
+00:04:42,401 --> 00:04:48,648
+Ceramic balls are lighter, harder, and cope better with heat and dirt over long sessions.
+
+63
+00:04:48,648 --> 00:04:51,946
+Ceramic is not automatically faster on the day.
+
+64
+00:04:51,946 --> 00:04:56,227
+It can stay smooth for longer, but only if you look after it.
+
+65
+00:04:56,927 --> 00:04:59,102
+Here is the inside of one wheel.
+
+66
+00:04:59,102 --> 00:05:01,209
+The axle runs straight through.
+
+67
+00:05:01,209 --> 00:05:05,286
+A bearing sits on each side, and between them is the spacer.
+
+68
+00:05:05,286 --> 00:05:12,286
+The spacer carries the clamping load, so you can tighten the axle firmly without pinching the bearings.
+
+69
+00:05:12,286 --> 00:05:19,014
+Skip it, and you are choosing between a loose wheel and a squeezed bearing, and neither rolls well.
+
+70
+00:05:19,014 --> 00:05:20,577
+Bearings also need oil.
+
+71
+00:05:20,577 --> 00:05:27,033
+A speed bearing wants a thin oil, not a thick grease, and one small drop per bearing is plenty.
+
+72
+00:05:27,033 --> 00:05:29,004
+Extra oil only collects dust.
+
+73
+00:05:29,004 --> 00:05:34,441
+Regular cleaning and a fresh drop keep a good bearing fast for a very long time.
+
+74
+00:05:34,441 --> 00:05:36,615
+Neglect kills bearings, not age.
+
+75
+00:05:37,315 --> 00:05:41,027
+At speed, most of the effort you fight is the air itself.
+
+76
+00:05:41,027 --> 00:05:45,520
+A skin suit is a close fitting one piece made from compression lycra.
+
+77
+00:05:45,520 --> 00:05:51,185
+It cuts the drag of loose clothing and holds your muscles firmly through a long effort.
+
+78
+00:05:51,185 --> 00:05:52,617
+It is not about looks.
+
+79
+00:05:52,617 --> 00:05:58,543
+On a fast lap, the difference between a flapping shirt and a clean suit is real free speed.
+
+80
+00:05:58,543 --> 00:06:02,970
+You do not need one to start racing, but many skaters add one early.
+
+81
+00:06:02,970 --> 00:06:08,570
+Get the fit snug, because a loose suit gives back the very drag it is meant to remove.
+
+82
+00:06:09,270 --> 00:06:11,991
+Now, the order to build your first setup.
+
+83
+00:06:11,991 --> 00:06:13,052
+First, the boot.
+
+84
+00:06:13,052 --> 00:06:19,289
+It should fit the length and width of your foot, lock your heel down, and not crush your toes.
+
+85
+00:06:19,289 --> 00:06:23,071
+A poor boot hides every good part you bolt underneath it.
+
+86
+00:06:23,071 --> 00:06:30,834
+Second, a four wheel frame with 90 or 100 millimetre wheels, to keep you low and stable while your technique arrives.
+
+87
+00:06:30,834 --> 00:06:38,598
+Choose a firmness for your surface, because grip you can trust builds confidence faster than roll you cannot control.
+
+88
+00:06:38,598 --> 00:06:43,176
+Third, a solid steel bearing set, correct spacers and thin skate oil.
+
+89
+00:06:43,176 --> 00:06:46,427
+Learn to strip, clean and re oil a bearing early.
+
+90
+00:06:46,427 --> 00:06:51,403
+Finally, when you upgrade, change one part and skate it for a few sessions.
+
+91
+00:06:51,403 --> 00:06:56,446
+Change everything at once, and you will never know what made the difference.
+
+92
+00:06:57,146 --> 00:06:59,755
+If you remember one thing, make it this.
+
+93
+00:06:59,755 --> 00:07:06,539
+Start stable, keep your bearings clean, match your bore, and let your gear grow as your body catches up.
+
+94
+00:07:06,539 --> 00:07:12,410
+Once the jargon stops getting in the way, you can make clear choices about your own setup.
+
+95
+00:07:12,410 --> 00:07:17,955
+The full guide, with a glossary of every word in this video, is on the LiveLica blog.
+
+96
+00:07:17,955 --> 00:07:19,977
+The link is in the description.

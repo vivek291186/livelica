@@ -1,0 +1,125 @@
+{
+  "title": "Inline Speed Skating for Beginners: A Gear Glossary and First Setup Guide",
+  "url": "https://www.livelica.com/blogs/inline-speed-skating/inline-speed-skating-for-beginners-a-gear-glossary-and-first-setup-guide",
+  "thumbnail_text": "Every inline speed skating word, explained simply",
+  "article_html": "article.html",
+  "scenes": [
+    {
+      "type": "title",
+      "heading": "Inline Speed Skating for Beginners",
+      "sub": "The gear words explained, and the order to build your first setup",
+      "chapter": "The words you need",
+      "narration": "By the end of this video, you will know what every common speed skating gear word means. You will also know the order to build your first setup in. Frame, durometer, bore, ABEC, spacer, Hi Lo, triskate. When you are new, these words fly past faster than the skaters. It can feel like everyone else got a glossary that you never received. So here it is, in plain language. Once the words make sense, you can read a product page, follow your coach, and make clear choices instead of guessing."
+    },
+    {
+      "type": "points",
+      "heading": "The platform: boot and frame",
+      "bullets": [
+        "Platform means boot plus frame",
+        "The boot holds your foot and ankle",
+        "The frame carries your wheels in line",
+        "Long, low and rigid wastes no push"
+      ],
+      "chapter": "Boot and frame",
+      "narration": "Everything starts with your platform. That is the boot on your foot and the frame bolted underneath it. The boot holds your foot and ankle. The frame is the stiff beam that carries your wheels in a straight line under the boot. On a speed skate, the frame is long, low and rigid. Why rigid? Because any flex in the frame is energy you push into the frame instead of into the road. A good frame keeps your wheels perfectly in line, so the skate rolls true and does not scrub off speed."
+    },
+    {
+      "type": "points",
+      "heading": "Three wheels or four",
+      "bullets": [
+        "Four wheels: 90 or 100mm, low and stable",
+        "Three wheels, or triskate: 110 or 125mm",
+        "Triskates sit taller and roll faster",
+        "Platform length: front bolt to rear bolt",
+        "Hi Lo: smaller wheels at the front"
+      ],
+      "chapter": "Three wheels or four, platform length and Hi Lo",
+      "narration": "Speed frames come in two families. A four wheel frame carries four smaller wheels, often 90 or 100 millimetres. It sits lower with a longer contact patch, and many skaters find it stable and forgiving while they build technique. A three wheel frame, also called a triskate, carries three larger wheels, such as 110 or 125 millimetres. It sits taller, rolls faster once you are moving, and is lighter for its size. Two more words. Platform length is the distance between the front and rear mounting bolts. Longer tracks straighter, shorter turns more eagerly. Hi Lo means the front wheels are smaller than the rear ones, which lowers your toe and helps you sit forward into your stroke. You do not need to fine tune these on day one."
+    },
+    {
+      "type": "diagram",
+      "heading": "The wheel size ladder",
+      "svg_index": 0,
+      "chapter": "Wheel sizes",
+      "narration": "Here is the wheel size ladder. On the left, 90 millimetres, nimble and stable. Next, 100 millimetres, the all round pick. Then 110 millimetres, fast and popular for marathons. And on the right, 125 millimetres, built for top speed roll. The rule is simple. Bigger wheels roll faster and carry speed. Smaller wheels feel more stable and get moving more quickly. Most beginners are well served in the 90 to 100 millimetre range."
+    },
+    {
+      "type": "diagram",
+      "heading": "Durometer: grip versus speed",
+      "svg_index": 1,
+      "chapter": "Durometer, XFirm and XXFirm",
+      "narration": "The second wheel number is durometer. It tells you how hard or soft the wheel is, written as a number and the letter A, such as 85A. A higher number means a harder wheel. Harder wheels roll faster on smooth, hot surfaces and last longer. Softer wheels grip more and soak up rough ground, at the cost of a little speed. Many race wheels use a label instead. XFirm is the softer one, with more grip, which helps on a slick or dusty track, or while you learn to trust your edges. XXFirm is harder and rolls faster on smooth, hot tarmac. Pick for your surface and your confidence, not just the fastest label."
+    },
+    {
+      "type": "points",
+      "heading": "Bearings: small parts that matter most",
+      "bullets": [
+        "Two bearings in every wheel",
+        "Four wheel pair: sixteen bearings",
+        "Three wheel pair: twelve bearings",
+        "Cheapest real difference you can feel"
+      ],
+      "chapter": "Bearings",
+      "narration": "Bearings are the small steel or ceramic rings that let each wheel spin freely on its axle. Every wheel needs two. So a pair of four wheel skates runs sixteen bearings, and a pair of three wheel skates runs twelve. Bearings are usually sold in sets of sixteen for this reason, so check the count before you order. They are the cheapest way to feel a real difference in your skating. They are also the easiest part to ruin through neglect, so they are worth understanding properly."
+    },
+    {
+      "type": "diagram",
+      "heading": "Bore size: 608 versus 627",
+      "svg_index": 2,
+      "chapter": "608 versus 627 bore size",
+      "narration": "Bore is the size of the hole in the middle of the bearing, where the axle passes through. On the left is a 608, the inline speed bearing, with an 8 millimetre bore. On the right is a 627, used on many quad skates, with a 7 millimetre bore. It will not fit an 8 millimetre inline axle. The two look almost identical in a photo, but they do not swap. This is the most common ordering mistake beginners make. So always match the bore to your axle before you buy."
+    },
+    {
+      "type": "points",
+      "heading": "ABEC, steel and ceramic",
+      "bullets": [
+        "ABEC is a tolerance rating, not speed",
+        "Balls, races and cage matter more",
+        "Steel: tough, proven, great value",
+        "Ceramic: lighter, copes with heat and dirt",
+        "Care matters more than material"
+      ],
+      "chapter": "ABEC, steel and ceramic",
+      "narration": "ABEC is a manufacturing tolerance rating, with odd numbers like 1, 3, 5, 7 and 9. A higher number means tighter machining. But it does not measure speed by itself, and for skating it is only one small part of the picture. The quality of the balls, races and cage matters far more, and so does how clean and oiled you keep them. Steel balls are proven, tough and excellent value. Ceramic balls are lighter, harder, and cope better with heat and dirt over long sessions. Ceramic is not automatically faster on the day. It can stay smooth for longer, but only if you look after it."
+    },
+    {
+      "type": "diagram",
+      "heading": "Inside one wheel",
+      "svg_index": 3,
+      "chapter": "Spacers and bearing oil",
+      "narration": "Here is the inside of one wheel. The axle runs straight through. A bearing sits on each side, and between them is the spacer. The spacer carries the clamping load, so you can tighten the axle firmly without pinching the bearings. Skip it, and you are choosing between a loose wheel and a squeezed bearing, and neither rolls well. Bearings also need oil. A speed bearing wants a thin oil, not a thick grease, and one small drop per bearing is plenty. Extra oil only collects dust. Regular cleaning and a fresh drop keep a good bearing fast for a very long time. Neglect kills bearings, not age."
+    },
+    {
+      "type": "points",
+      "heading": "The skin suit",
+      "bullets": [
+        "Most of your effort fights the air",
+        "Close fitting compression lycra",
+        "Cuts drag and holds your muscles",
+        "Snug fit, or the drag comes back"
+      ],
+      "chapter": "Skin suits",
+      "narration": "At speed, most of the effort you fight is the air itself. A skin suit is a close fitting one piece made from compression lycra. It cuts the drag of loose clothing and holds your muscles firmly through a long effort. It is not about looks. On a fast lap, the difference between a flapping shirt and a clean suit is real free speed. You do not need one to start racing, but many skaters add one early. Get the fit snug, because a loose suit gives back the very drag it is meant to remove."
+    },
+    {
+      "type": "points",
+      "heading": "Build your first setup in this order",
+      "bullets": [
+        "1. Fit the boot first",
+        "2. Four wheel frame, 90 or 100mm",
+        "3. Firmness to suit your surface",
+        "4. Steel bearings, spacers, thin oil",
+        "5. Change one thing at a time"
+      ],
+      "chapter": "Your first setup, step by step",
+      "narration": "Now, the order to build your first setup. First, the boot. It should fit the length and width of your foot, lock your heel down, and not crush your toes. A poor boot hides every good part you bolt underneath it. Second, a four wheel frame with 90 or 100 millimetre wheels, to keep you low and stable while your technique arrives. Choose a firmness for your surface, because grip you can trust builds confidence faster than roll you cannot control. Third, a solid steel bearing set, correct spacers and thin skate oil. Learn to strip, clean and re oil a bearing early. Finally, when you upgrade, change one part and skate it for a few sessions. Change everything at once, and you will never know what made the difference."
+    },
+    {
+      "type": "end",
+      "heading": "Start stable, keep bearings clean, match your bore",
+      "sub": "Full guide at livelica.com, link in the description",
+      "chapter": "The one thing to remember",
+      "narration": "If you remember one thing, make it this. Start stable, keep your bearings clean, match your bore, and let your gear grow as your body catches up. Once the jargon stops getting in the way, you can make clear choices about your own setup. The full guide, with a glossary of every word in this video, is on the LiveLica blog. The link is in the description."
+    }
+  ]
+}

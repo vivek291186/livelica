@@ -1,0 +1,411 @@
+1
+00:00:00,000 --> 00:00:03,829
+This is a simple race day routine for inline speed skaters.
+
+2
+00:00:03,829 --> 00:00:10,321
+You will learn what to check in race week, the night before, and in the last hour before your start.
+
+3
+00:00:10,321 --> 00:00:15,773
+Most skaters train hard for months, then lose time through preparation, not fitness.
+
+4
+00:00:15,773 --> 00:00:17,980
+A bolt works loose in the warm up.
+
+5
+00:00:17,980 --> 00:00:20,707
+The wheel choice is wrong for the surface.
+
+6
+00:00:20,707 --> 00:00:24,731
+The bearings were stripped the night before and never settled.
+
+7
+00:00:24,731 --> 00:00:26,354
+None of this is dramatic.
+
+8
+00:00:26,354 --> 00:00:31,093
+But every one of these costs you on race day, and every one is avoidable.
+
+9
+00:00:31,793 --> 00:00:34,560
+One rule runs through this whole routine.
+
+10
+00:00:34,560 --> 00:00:37,529
+Race day is not the day to try anything new.
+
+11
+00:00:37,529 --> 00:00:42,253
+Everything you race on should be something you have already skated on.
+
+12
+00:00:42,253 --> 00:00:45,695
+Preparation is about making a known setup reliable.
+
+13
+00:00:45,695 --> 00:00:48,125
+It is not about making it different.
+
+14
+00:00:48,125 --> 00:00:52,174
+So the plan follows the way a race weekend actually unfolds.
+
+15
+00:00:52,174 --> 00:00:56,831
+There is race week, the night before, and the hour before your start.
+
+16
+00:00:56,831 --> 00:01:00,542
+The idea is to push every decision as early as you can.
+
+17
+00:01:00,542 --> 00:01:04,794
+That way race day is only about checking, never about choosing.
+
+18
+00:01:05,494 --> 00:01:08,000
+Here is the whole routine on one line.
+
+19
+00:01:08,000 --> 00:01:14,397
+In race week, you confirm your wheel choice, clean and oil your bearings, and skate on the setup.
+
+20
+00:01:14,397 --> 00:01:20,596
+The night before, you check every bolt, rotate wheels if they need it, and pack the bag fully.
+
+21
+00:01:20,596 --> 00:01:28,378
+In the hour before, you spin each wheel and listen, feel the actual surface, and get your suit on with your laces set.
+
+22
+00:01:28,378 --> 00:01:30,620
+And one line sits under all of it.
+
+23
+00:01:30,620 --> 00:01:34,115
+Nothing new goes on the skate after race week closes.
+
+24
+00:01:34,815 --> 00:01:37,947
+The most common mistake in race week is change.
+
+25
+00:01:37,947 --> 00:01:42,945
+New wheels, new bearings, a new frame position, a suit you have never worn.
+
+26
+00:01:42,945 --> 00:01:46,276
+Each one adds an unknown right when you want none.
+
+27
+00:01:46,276 --> 00:01:52,606
+If something really needs replacing, do it early, so you get two or three sessions on it first.
+
+28
+00:01:52,606 --> 00:01:54,072
+Here is a simple test.
+
+29
+00:01:54,072 --> 00:01:59,403
+Change something only if it is worn out, broken, or clearly wrong for the venue.
+
+30
+00:01:59,403 --> 00:02:06,066
+A wheel with a chunk out of it, a bearing that grinds, a frayed lace or a cracked strap all qualify.
+
+31
+00:02:06,066 --> 00:02:09,797
+Leave it alone if the only reason to touch it is nerves.
+
+32
+00:02:09,797 --> 00:02:16,194
+Frame position, boot heat moulding and your lacing pattern take sessions to adapt to, not hours.
+
+33
+00:02:16,194 --> 00:02:20,391
+Bearings that spin freely and sound clean can stay as they are.
+
+34
+00:02:21,091 --> 00:02:26,413
+Wheel firmness is the one setting that really should change with the venue.
+
+35
+00:02:26,413 --> 00:02:29,464
+Many skaters think harder is always faster.
+
+36
+00:02:29,464 --> 00:02:32,870
+On a rough or dusty surface, that is often true.
+
+37
+00:02:32,870 --> 00:02:41,597
+But on a hard, smooth, dry track, a wheel that is too hard starts to slide instead of holding your line through the corner.
+
+38
+00:02:41,597 --> 00:02:45,571
+And slip costs far more than a small difference in roll.
+
+39
+00:02:45,571 --> 00:02:47,628
+This diagram shows the trade.
+
+40
+00:02:47,628 --> 00:02:53,801
+An XFirm wheel, at 84 to 86A, is softer and grips better on hard, smooth, dry surfaces.
+
+41
+00:02:53,801 --> 00:03:00,400
+An XXFirm wheel, at 86 to 88A, gives more roll and outright speed when the surface allows it.
+
+42
+00:03:00,400 --> 00:03:03,593
+Dust, damp and tight corners all favour grip.
+
+43
+00:03:03,593 --> 00:03:05,508
+Long straights favour roll.
+
+44
+00:03:05,508 --> 00:03:14,165
+And if you are unsure, race the wheel you trained on, because confidence in the corner is worth more than a gain on paper.
+
+45
+00:03:14,865 --> 00:03:17,655
+Bearings are the classic race day mistake.
+
+46
+00:03:17,655 --> 00:03:20,976
+Skaters strip and oil a full set the night before.
+
+47
+00:03:20,976 --> 00:03:29,611
+Then the wheels feel heavy and noisy for the first few laps, because nothing has bedded in and there is too much oil in the races.
+
+48
+00:03:29,611 --> 00:03:35,523
+Service them early in race week instead, and skate on them at least once before you race.
+
+49
+00:03:35,523 --> 00:03:41,169
+If they are dirty, clean them and let them dry completely, because oil binds to grit.
+
+50
+00:03:41,169 --> 00:03:47,280
+Then add one drop of oil per bearing, spin it by hand to spread it, and wipe off the excess.
+
+51
+00:03:47,280 --> 00:03:49,073
+One drop is the sweet spot.
+
+52
+00:03:49,073 --> 00:03:51,863
+A flooded bearing collects dust and drags.
+
+53
+00:03:51,863 --> 00:03:53,524
+And remember the numbers.
+
+54
+00:03:53,524 --> 00:04:00,099
+A pair of four wheel skates runs sixteen bearings, so a spare or two in the bag is cheap insurance.
+
+55
+00:04:00,799 --> 00:04:04,691
+The night before is a mechanical job, not a performance one.
+
+56
+00:04:04,691 --> 00:04:06,831
+Work through each skate in order.
+
+57
+00:04:06,831 --> 00:04:11,436
+Check that every axle is tight and that no wheel has side to side play.
+
+58
+00:04:11,436 --> 00:04:17,144
+Check the frame mounting bolts on both skates, because these loosen slowly and silently.
+
+59
+00:04:17,144 --> 00:04:18,895
+Spin each wheel and listen.
+
+60
+00:04:18,895 --> 00:04:23,500
+A rough or rattly bearing should tell you tonight, not during the race.
+
+61
+00:04:23,500 --> 00:04:28,819
+Look across the wheels for uneven wear, and rotate if one is clearly further gone.
+
+62
+00:04:28,819 --> 00:04:33,035
+Then check your laces, buckles and straps for fraying and cracks.
+
+63
+00:04:33,035 --> 00:04:36,602
+Snug each frame bolt firmly without leaning on the key.
+
+64
+00:04:36,602 --> 00:04:41,077
+And if you moved your frame recently, confirm it is where you expect.
+
+65
+00:04:41,077 --> 00:04:47,174
+Frame position drift is easy to miss on the bench, and you feel it straight away off the line.
+
+66
+00:04:47,874 --> 00:04:51,265
+Pack the bag the night before, not in the morning.
+
+67
+00:04:51,265 --> 00:04:55,672
+A checklist beats memory when you are nervous and short of sleep.
+
+68
+00:04:55,672 --> 00:04:58,317
+This layout splits it into four groups.
+
+69
+00:04:58,317 --> 00:05:04,826
+Skate kit: your skates with race wheels fitted, a second wheel set, your helmet and spare laces.
+
+70
+00:05:04,826 --> 00:05:10,861
+Tools and spares: allen keys, bearing oil, spare bearings, spare axles and a clean cloth.
+
+71
+00:05:10,861 --> 00:05:16,828
+Race clothing: your skin suit, warm layers, spare socks, gloves and a dry change of kit.
+
+72
+00:05:16,828 --> 00:05:23,609
+And fuel and admin: water, simple food, race numbers, your licence and ID, and the start list times.
+
+73
+00:05:23,609 --> 00:05:27,949
+Check it against the list once in the morning, and you are done.
+
+74
+00:05:28,649 --> 00:05:33,955
+Your race suit belongs on the list too, because it is equipment, not just clothing.
+
+75
+00:05:33,955 --> 00:05:37,982
+It should be dry, uncreased, and already familiar on your body.
+
+76
+00:05:37,982 --> 00:05:44,375
+A suit that binds across the shoulders or rides at the knee changes how you sit in the low position.
+
+77
+00:05:44,375 --> 00:05:50,128
+So wear it in training before you race in it, and never open a new suit on the start line.
+
+78
+00:05:50,128 --> 00:05:55,754
+Put it on before your final skate checks, so you are not fighting a zip with cold hands.
+
+79
+00:05:55,754 --> 00:05:58,886
+Have a warm layer to pull over it while you wait.
+
+80
+00:05:58,886 --> 00:06:04,512
+And carry a dry change for after the race, so you spend the next week training, not ill.
+
+81
+00:06:05,211 --> 00:06:08,160
+By the last hour, nothing should need fixing.
+
+82
+00:06:08,160 --> 00:06:11,895
+This hour is for confirming, warming up and staying calm.
+
+83
+00:06:11,895 --> 00:06:18,972
+At sixty minutes, spin each wheel and listen, and check the axles and frame bolts after the trip in the bag.
+
+84
+00:06:18,972 --> 00:06:28,473
+At forty five minutes, do an easy skate on the race surface and read the grip, so your first contact with it is not the first corner of the race.
+
+85
+00:06:28,473 --> 00:06:35,616
+At twenty five minutes, get your suit on with a warm layer over it, and set your laces the way you always do.
+
+86
+00:06:35,616 --> 00:06:40,333
+At fifteen minutes, do your activation and short efforts, and sip water.
+
+87
+00:06:40,333 --> 00:06:43,741
+Then put the tools away, breathe, and race the plan.
+
+88
+00:06:43,741 --> 00:06:49,638
+If you are still holding an allen key at fifteen minutes, something went wrong last night.
+
+89
+00:06:50,338 --> 00:06:56,111
+If you race more than one distance, keep the routine between heats short and repeatable.
+
+90
+00:06:56,111 --> 00:06:59,391
+Wipe the grit off the wheels, keep warm and drink.
+
+91
+00:06:59,391 --> 00:07:03,065
+Only touch the skates if something has actually changed.
+
+92
+00:07:03,065 --> 00:07:06,410
+Fiddling between rounds is almost always a mistake.
+
+93
+00:07:06,410 --> 00:07:09,887
+After the race, take ten minutes to protect your kit.
+
+94
+00:07:09,887 --> 00:07:14,742
+Wipe the wheels and frames down, especially after a dusty or damp surface.
+
+95
+00:07:14,742 --> 00:07:18,218
+Look for any wheel that took a chunk out in the pack.
+
+96
+00:07:18,218 --> 00:07:23,926
+Loosen the laces, let the boots air, and do not leave a damp suit balled up in the bag.
+
+97
+00:07:23,926 --> 00:07:29,633
+If your bearings sounded gritty, note it, and service them early in the next race week.
+
+98
+00:07:30,333 --> 00:07:32,967
+If you remember one thing, make it this.
+
+99
+00:07:32,967 --> 00:07:36,457
+Nothing new goes on the skate after race week closes.
+
+100
+00:07:36,457 --> 00:07:42,580
+Decide early, check late, and let the last fifteen minutes belong to your legs and your head.
+
+101
+00:07:42,580 --> 00:07:49,428
+The single most overlooked check is the frame mounting bolts, so check them the night before every race.
+
+102
+00:07:49,428 --> 00:07:56,145
+The full guide, with the complete checklists and answers to common questions, is on the LiveLica blog.
+
+103
+00:07:56,145 --> 00:07:58,186
+The link is in the description.
