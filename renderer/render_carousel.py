@@ -11,6 +11,7 @@ carousel.json:
     {"type": "point",   "title": "Keep the frequency, cut the volume", "body": "Two 30 minute sessions beat one 90 minute session."},
     {"type": "diagram", "title": "What holds and what fades", "svg_index": 0},
     {"type": "quote",   "text": "Cut the session, never the sleep."},
+    {"type": "photo",   "image": "img1.jpg", "title": "Product name", "sub": "One short line"},   # local file
     {"type": "cta",     "title": "Full guide with the weekly plan", "body": "Link in bio"}
   ]
 }
@@ -211,6 +212,32 @@ def slide_diagram(s, tag, idx, total, svgs, tmp):
     return img
 
 
+def slide_photo(s, tag, idx, total, root):
+    """Real product photo on a light card, product name above, short line below."""
+    img = background(0)
+    d = ImageDraw.Draw(img)
+    chrome(d, tag, idx, total)
+    tf, tlines, tsize = fit(d, s.get("title", ""), "display_black", 72, 48, W - 2 * M, 3)
+    y = 190
+    for line in tlines:
+        d.text((M, y), line, font=tf, fill=WHITE)
+        y += int(tsize * 1.1)
+    src = Image.open(root / s["image"]).convert("RGB")
+    top = y + 40
+    bottom = H - (230 if s.get("sub") else 150)
+    box_w, box_h = W - 2 * 60, bottom - top
+    card = Image.new("RGB", (box_w, box_h), (245, 247, 250))
+    sc = min((box_w - 40) / src.width, (box_h - 40) / src.height)
+    ph = src.resize((int(src.width * sc), int(src.height * sc)), Image.LANCZOS)
+    card.paste(ph, ((box_w - ph.width) // 2, (box_h - ph.height) // 2))
+    mask = Image.new("L", card.size, 0)
+    ImageDraw.Draw(mask).rounded_rectangle([0, 0, box_w, box_h], radius=32, fill=255)
+    img.paste(card, (60, top), mask)
+    if s.get("sub"):
+        d.text((M, bottom + 30), s["sub"], font=font("medium", 36), fill=ICE)
+    return img
+
+
 def slide_cta(s, tag, idx, total):
     img = background(0)
     d = ImageDraw.Draw(img)
@@ -255,6 +282,8 @@ def main():
                 img = slide_quote(s, tag, i, total)
             elif t == "diagram":
                 img = slide_diagram(s, tag, i, total, svgs, tmp)
+            elif t == "photo":
+                img = slide_photo(s, tag, i, total, spec_path.parent)
             else:
                 img = slide_cta(s, tag, i, total)
             p = out_dir / f"slide_{i + 1:02d}.jpg"
