@@ -269,13 +269,38 @@ def main():
             clock += dur
             print(f"scene {i + 1}/{len(spec['scenes'])}: {s['type']} {dur:.1f}s", flush=True)
 
+        # Optional real human intro (e.g. 5 to 10 seconds of the owner on camera), prepended to every video.
+        intro = HERE / "assets" / "intro.mp4"
+        if intro.exists():
+            norm = Path(tmp) / "intro.mp4"
+            subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(intro), "-vf",
+                            f"scale={W}:{H}:force_original_aspect_ratio=decrease,pad={W}:{H}:(ow-iw)/2:(oh-ih)/2,fps=30,format=yuv420p",
+                            "-c:v", "libx264", "-preset", "medium", "-crf", "23", "-c:a", "aac", "-b:a", "128k",
+                            "-ar", "48000", "-ac", "1", str(norm)], check=True)
+            idur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of",
+                                         "default=nw=1:nk=1", str(norm)], capture_output=True, text=True).stdout)
+            segs.insert(0, norm)
+            chapters = ["0:00 Intro"] + [f"{mmss(float(c.split()[0].split(':')[0]) * 60 + float(c.split()[0].split(':')[1]) + idur)} {c.split(' ', 1)[1]}" for c in chapters]
+            new_srt = []
+            for cue in srt:
+                parts = cue.split("\n")
+                a_, b_ = parts[1].split(" --> ")
+                def to_s(x):
+                    h, m_, rest = x.split(":"); s_, ms = rest.split(",")
+                    return int(h) * 3600 + int(m_) * 60 + int(s_) + int(ms) / 1000
+                parts[1] = f"{srt_time(to_s(a_) + idur)} --> {srt_time(to_s(b_) + idur)}"
+                new_srt.append("\n".join(parts))
+            srt = new_srt
+            clock += idur
+
         lst = Path(tmp) / "list.txt"
         lst.write_text("".join(f"file '{p}'\n" for p in segs))
         subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", str(lst),
                         "-c", "copy", "-movflags", "+faststart", a.out], check=True)
         out = Path(a.out)
         out.with_suffix(".srt").write_text("\n".join(srt), encoding="utf-8")
-        chapters[0] = "0:00 " + chapters[0].split(" ", 1)[1]
+        if not chapters[0].startswith("0:00 Intro"):
+            chapters[0] = "0:00 " + chapters[0].split(" ", 1)[1]
         out.with_name(out.stem + "_chapters.txt").write_text("\n".join(chapters) + "\n", encoding="utf-8")
         render_thumbnail(spec, out.with_name(out.stem + "_thumbnail.png"))
     mb = os.path.getsize(a.out) / 1e6

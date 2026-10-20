@@ -1,0 +1,41 @@
+{
+  "tag": "INLINE TRAINING",
+  "article_html": "article.html",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Exam season? Keep your speed anyway",
+      "sub": "About 90 minutes of training a week holds most of it"
+    },
+    {
+      "type": "diagram",
+      "title": "What holds and what fades in a month off",
+      "svg_index": 0,
+      "caption": "Technique holds. Short hard efforts keep your speed. Aerobic fitness fades first, and comes back fastest."
+    },
+    {
+      "type": "point",
+      "title": "Keep the frequency, cut the volume",
+      "body": "Two 30 minute sessions a week beat one 90 minute session. Frequency keeps the movement familiar and leaves your evening free for revision."
+    },
+    {
+      "type": "point",
+      "title": "The 30 minute speed session",
+      "body": "10 minutes of warm up. 6 to 8 sprints of about 10 seconds from a rolling start, with an easy lap between each. 5 minutes easy to finish."
+    },
+    {
+      "type": "quote",
+      "text": "Cut the session, never the sleep."
+    },
+    {
+      "type": "point",
+      "title": "Stopping completely? Look after the skates first",
+      "body": "Clean and oil the bearings, wipe the frames, rotate the wheels and store everything somewhere cool and dry."
+    },
+    {
+      "type": "cta",
+      "title": "Full exam season plan on the LiveLica blog",
+      "body": "Link in bio"
+    }
+  ]
+}
