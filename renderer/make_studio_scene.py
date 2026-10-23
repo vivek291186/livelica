@@ -19,7 +19,10 @@ def main():
 
     from rembg import new_session, remove
     cut = remove(Image.open(a.photo).convert("RGB"), session=new_session("isnet-general-use"))
-    cut = cut.crop(cut.getbbox())
+    # drop faint alpha residue (photographed shadows) so the crop hugs the real product
+    alpha = cut.getchannel("A").point(lambda v: 0 if v < 40 else v)
+    cut.putalpha(alpha)
+    cut = cut.crop(alpha.point(lambda v: 255 if v >= 128 else 0).getbbox())
 
     # background: deep navy with a soft blue glow behind the product and a floor line
     bg = Image.new("RGB", (W, H), (6, 12, 28))
